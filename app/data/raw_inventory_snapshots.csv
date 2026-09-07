@@ -1,0 +1,2641 @@
+warehouse_id,month,category,stock_units,reorder_point,stockout_flag
+WH-01,2023-01-01,Electronics,1318,576,False
+WH-01,2023-01-01,Apparel,2246,605,False
+WH-01,2023-01-01,Home Goods,2186,785,False
+WH-01,2023-01-01,Industrial Parts,918,662,False
+WH-01,2023-01-01,Perishables,138,510,True
+WH-02,2023-01-01,Electronics,676,446,False
+WH-02,2023-01-01,Apparel,3766,968,False
+WH-02,2023-01-01,Home Goods,582,147,False
+WH-02,2023-01-01,Industrial Parts,397,221,False
+WH-02,2023-01-01,Perishables,400,157,False
+WH-03,2023-01-01,Electronics,2454,759,False
+WH-03,2023-01-01,Apparel,713,398,False
+WH-03,2023-01-01,Home Goods,583,308,False
+WH-03,2023-01-01,Industrial Parts,2853,939,False
+WH-03,2023-01-01,Perishables,2152,816,False
+WH-04,2023-01-01,Electronics,2170,758,False
+WH-04,2023-01-01,Apparel,2367,928,False
+WH-04,2023-01-01,Home Goods,1887,626,False
+WH-04,2023-01-01,Industrial Parts,2839,1178,False
+WH-04,2023-01-01,Perishables,2560,803,False
+WH-05,2023-01-01,Electronics,1233,746,False
+WH-05,2023-01-01,Apparel,701,557,False
+WH-05,2023-01-01,Home Goods,2217,1061,False
+WH-05,2023-01-01,Industrial Parts,1006,300,False
+WH-05,2023-01-01,Perishables,4139,1164,False
+WH-06,2023-01-01,Electronics,283,164,False
+WH-06,2023-01-01,Apparel,662,297,False
+WH-06,2023-01-01,Home Goods,536,446,False
+WH-06,2023-01-01,Industrial Parts,1361,533,False
+WH-06,2023-01-01,Perishables,718,480,False
+WH-07,2023-01-01,Electronics,4596,1168,False
+WH-07,2023-01-01,Apparel,1613,1218,False
+WH-07,2023-01-01,Home Goods,1512,846,False
+WH-07,2023-01-01,Industrial Parts,2187,1000,False
+WH-07,2023-01-01,Perishables,765,425,False
+WH-08,2023-01-01,Electronics,1943,965,False
+WH-08,2023-01-01,Apparel,1556,691,False
+WH-08,2023-01-01,Home Goods,1311,466,False
+WH-08,2023-01-01,Industrial Parts,1257,718,False
+WH-08,2023-01-01,Perishables,393,233,False
+WH-09,2023-01-01,Electronics,1000,882,False
+WH-09,2023-01-01,Apparel,2572,752,False
+WH-09,2023-01-01,Home Goods,1523,945,False
+WH-09,2023-01-01,Industrial Parts,1368,601,False
+WH-09,2023-01-01,Perishables,3703,959,False
+WH-10,2023-01-01,Electronics,839,394,False
+WH-10,2023-01-01,Apparel,1307,1187,False
+WH-10,2023-01-01,Home Goods,3589,1015,False
+WH-10,2023-01-01,Industrial Parts,1929,995,False
+WH-10,2023-01-01,Perishables,1845,1213,False
+WH-11,2023-01-01,Electronics,376,161,False
+WH-11,2023-01-01,Apparel,394,316,False
+WH-11,2023-01-01,Home Goods,302,263,False
+WH-11,2023-01-01,Industrial Parts,591,159,False
+WH-11,2023-01-01,Perishables,903,676,False
+WH-12,2023-01-01,Electronics,161,755,True
+WH-12,2023-01-01,Apparel,492,350,False
+WH-12,2023-01-01,Home Goods,203,822,True
+WH-12,2023-01-01,Industrial Parts,1105,686,False
+WH-12,2023-01-01,Perishables,41,389,True
+WH-01,2023-02-01,Electronics,987,652,False
+WH-01,2023-02-01,Apparel,2534,994,False
+WH-01,2023-02-01,Home Goods,3074,983,False
+WH-01,2023-02-01,Industrial Parts,861,424,False
+WH-01,2023-02-01,Perishables,73,1082,True
+WH-02,2023-02-01,Electronics,2709,923,False
+WH-02,2023-02-01,Apparel,3603,963,False
+WH-02,2023-02-01,Home Goods,2208,580,False
+WH-02,2023-02-01,Industrial Parts,1860,934,False
+WH-02,2023-02-01,Perishables,3183,949,False
+WH-03,2023-02-01,Electronics,1753,727,False
+WH-03,2023-02-01,Apparel,2544,959,False
+WH-03,2023-02-01,Home Goods,2521,694,False
+WH-03,2023-02-01,Industrial Parts,786,504,False
+WH-03,2023-02-01,Perishables,1346,1119,False
+WH-04,2023-02-01,Electronics,718,354,False
+WH-04,2023-02-01,Apparel,752,338,False
+WH-04,2023-02-01,Home Goods,775,237,False
+WH-04,2023-02-01,Industrial Parts,986,254,False
+WH-04,2023-02-01,Perishables,1925,1122,False
+WH-05,2023-02-01,Electronics,3247,896,False
+WH-05,2023-02-01,Apparel,2699,1210,False
+WH-05,2023-02-01,Home Goods,1038,377,False
+WH-05,2023-02-01,Industrial Parts,2473,955,False
+WH-05,2023-02-01,Perishables,1363,457,False
+WH-06,2023-02-01,Electronics,1910,553,False
+WH-06,2023-02-01,Apparel,679,209,False
+WH-06,2023-02-01,Home Goods,395,320,False
+WH-06,2023-02-01,Industrial Parts,720,414,False
+WH-06,2023-02-01,Perishables,3166,866,False
+WH-07,2023-02-01,Electronics,3319,1022,False
+WH-07,2023-02-01,Apparel,698,409,False
+WH-07,2023-02-01,Home Goods,1189,495,False
+WH-07,2023-02-01,Industrial Parts,2832,1193,False
+WH-07,2023-02-01,Perishables,3268,1206,False
+WH-08,2023-02-01,Electronics,905,345,False
+WH-08,2023-02-01,Apparel,347,261,False
+WH-08,2023-02-01,Home Goods,2365,1178,False
+WH-08,2023-02-01,Industrial Parts,668,225,False
+WH-08,2023-02-01,Perishables,275,141,False
+WH-09,2023-02-01,Electronics,174,945,True
+WH-09,2023-02-01,Apparel,1758,1013,False
+WH-09,2023-02-01,Home Goods,1051,587,False
+WH-09,2023-02-01,Industrial Parts,1391,1039,False
+WH-09,2023-02-01,Perishables,2469,852,False
+WH-10,2023-02-01,Electronics,775,667,False
+WH-10,2023-02-01,Apparel,413,376,False
+WH-10,2023-02-01,Home Goods,3757,1127,False
+WH-10,2023-02-01,Industrial Parts,3517,919,False
+WH-10,2023-02-01,Perishables,4174,1245,False
+WH-11,2023-02-01,Electronics,2388,831,False
+WH-11,2023-02-01,Apparel,4214,1194,False
+WH-11,2023-02-01,Home Goods,2118,567,False
+WH-11,2023-02-01,Industrial Parts,744,695,False
+WH-11,2023-02-01,Perishables,1789,744,False
+WH-12,2023-02-01,Electronics,1158,926,False
+WH-12,2023-02-01,Apparel,1086,294,False
+WH-12,2023-02-01,Home Goods,1854,817,False
+WH-12,2023-02-01,Industrial Parts,1100,457,False
+WH-12,2023-02-01,Perishables,797,769,False
+WH-01,2023-03-01,Electronics,2832,738,False
+WH-01,2023-03-01,Apparel,3536,1018,False
+WH-01,2023-03-01,Home Goods,691,688,False
+WH-01,2023-03-01,Industrial Parts,889,405,False
+WH-01,2023-03-01,Perishables,4762,1219,False
+WH-02,2023-03-01,Electronics,3832,1080,False
+WH-02,2023-03-01,Apparel,512,154,False
+WH-02,2023-03-01,Home Goods,2576,812,False
+WH-02,2023-03-01,Industrial Parts,1363,604,False
+WH-02,2023-03-01,Perishables,491,329,False
+WH-03,2023-03-01,Electronics,330,1134,True
+WH-03,2023-03-01,Apparel,2432,1234,False
+WH-03,2023-03-01,Home Goods,1529,535,False
+WH-03,2023-03-01,Industrial Parts,2966,1156,False
+WH-03,2023-03-01,Perishables,1139,356,False
+WH-04,2023-03-01,Electronics,3777,1058,False
+WH-04,2023-03-01,Apparel,2790,982,False
+WH-04,2023-03-01,Home Goods,1543,630,False
+WH-04,2023-03-01,Industrial Parts,1686,954,False
+WH-04,2023-03-01,Perishables,3462,991,False
+WH-05,2023-03-01,Electronics,3058,923,False
+WH-05,2023-03-01,Apparel,2844,1132,False
+WH-05,2023-03-01,Home Goods,1809,897,False
+WH-05,2023-03-01,Industrial Parts,1981,659,False
+WH-05,2023-03-01,Perishables,258,172,False
+WH-06,2023-03-01,Electronics,3001,801,False
+WH-06,2023-03-01,Apparel,297,219,False
+WH-06,2023-03-01,Home Goods,2554,898,False
+WH-06,2023-03-01,Industrial Parts,2099,604,False
+WH-06,2023-03-01,Perishables,3148,1173,False
+WH-07,2023-03-01,Electronics,1368,390,False
+WH-07,2023-03-01,Apparel,1816,573,False
+WH-07,2023-03-01,Home Goods,2555,841,False
+WH-07,2023-03-01,Industrial Parts,1346,977,False
+WH-07,2023-03-01,Perishables,424,144,False
+WH-08,2023-03-01,Electronics,2336,749,False
+WH-08,2023-03-01,Apparel,550,306,False
+WH-08,2023-03-01,Home Goods,1841,1228,False
+WH-08,2023-03-01,Industrial Parts,1378,1247,False
+WH-08,2023-03-01,Perishables,2095,735,False
+WH-09,2023-03-01,Electronics,1745,465,False
+WH-09,2023-03-01,Apparel,1727,904,False
+WH-09,2023-03-01,Home Goods,24,186,True
+WH-09,2023-03-01,Industrial Parts,2089,801,False
+WH-09,2023-03-01,Perishables,1141,409,False
+WH-10,2023-03-01,Electronics,2335,807,False
+WH-10,2023-03-01,Apparel,1060,339,False
+WH-10,2023-03-01,Home Goods,943,443,False
+WH-10,2023-03-01,Industrial Parts,829,290,False
+WH-10,2023-03-01,Perishables,2324,660,False
+WH-11,2023-03-01,Electronics,1331,416,False
+WH-11,2023-03-01,Apparel,1513,481,False
+WH-11,2023-03-01,Home Goods,515,260,False
+WH-11,2023-03-01,Industrial Parts,183,138,False
+WH-11,2023-03-01,Perishables,3117,895,False
+WH-12,2023-03-01,Electronics,727,330,False
+WH-12,2023-03-01,Apparel,3902,1151,False
+WH-12,2023-03-01,Home Goods,63,944,True
+WH-12,2023-03-01,Industrial Parts,3940,1149,False
+WH-12,2023-03-01,Perishables,687,183,False
+WH-01,2023-04-01,Electronics,1104,567,False
+WH-01,2023-04-01,Apparel,1201,540,False
+WH-01,2023-04-01,Home Goods,3316,1034,False
+WH-01,2023-04-01,Industrial Parts,1474,506,False
+WH-01,2023-04-01,Perishables,59,660,True
+WH-02,2023-04-01,Electronics,1230,818,False
+WH-02,2023-04-01,Apparel,3566,1089,False
+WH-02,2023-04-01,Home Goods,1950,785,False
+WH-02,2023-04-01,Industrial Parts,1970,772,False
+WH-02,2023-04-01,Perishables,926,313,False
+WH-03,2023-04-01,Electronics,1080,496,False
+WH-03,2023-04-01,Apparel,1846,506,False
+WH-03,2023-04-01,Home Goods,1966,698,False
+WH-03,2023-04-01,Industrial Parts,1564,576,False
+WH-03,2023-04-01,Perishables,189,177,False
+WH-04,2023-04-01,Electronics,1783,976,False
+WH-04,2023-04-01,Apparel,1912,935,False
+WH-04,2023-04-01,Home Goods,3798,1097,False
+WH-04,2023-04-01,Industrial Parts,3395,1249,False
+WH-04,2023-04-01,Perishables,2396,635,False
+WH-05,2023-04-01,Electronics,20,173,True
+WH-05,2023-04-01,Apparel,2731,939,False
+WH-05,2023-04-01,Home Goods,3004,983,False
+WH-05,2023-04-01,Industrial Parts,719,546,False
+WH-05,2023-04-01,Perishables,3717,1096,False
+WH-06,2023-04-01,Electronics,723,554,False
+WH-06,2023-04-01,Apparel,1085,983,False
+WH-06,2023-04-01,Home Goods,1961,1002,False
+WH-06,2023-04-01,Industrial Parts,811,713,False
+WH-06,2023-04-01,Perishables,1652,727,False
+WH-07,2023-04-01,Electronics,134,495,True
+WH-07,2023-04-01,Apparel,2754,1097,False
+WH-07,2023-04-01,Home Goods,1320,782,False
+WH-07,2023-04-01,Industrial Parts,2164,587,False
+WH-07,2023-04-01,Perishables,3940,996,False
+WH-08,2023-04-01,Electronics,717,227,False
+WH-08,2023-04-01,Apparel,3483,1223,False
+WH-08,2023-04-01,Home Goods,2706,763,False
+WH-08,2023-04-01,Industrial Parts,1447,1038,False
+WH-08,2023-04-01,Perishables,675,404,False
+WH-09,2023-04-01,Electronics,1364,638,False
+WH-09,2023-04-01,Apparel,2476,774,False
+WH-09,2023-04-01,Home Goods,931,586,False
+WH-09,2023-04-01,Industrial Parts,1287,401,False
+WH-09,2023-04-01,Perishables,62,579,True
+WH-10,2023-04-01,Electronics,2225,1133,False
+WH-10,2023-04-01,Apparel,1310,772,False
+WH-10,2023-04-01,Home Goods,1032,302,False
+WH-10,2023-04-01,Industrial Parts,2506,1244,False
+WH-10,2023-04-01,Perishables,920,721,False
+WH-11,2023-04-01,Electronics,1217,567,False
+WH-11,2023-04-01,Apparel,1962,515,False
+WH-11,2023-04-01,Home Goods,1542,1176,False
+WH-11,2023-04-01,Industrial Parts,267,227,False
+WH-11,2023-04-01,Perishables,1050,402,False
+WH-12,2023-04-01,Electronics,1118,741,False
+WH-12,2023-04-01,Apparel,716,382,False
+WH-12,2023-04-01,Home Goods,2475,745,False
+WH-12,2023-04-01,Industrial Parts,8,182,True
+WH-12,2023-04-01,Perishables,2108,734,False
+WH-01,2023-05-01,Electronics,650,533,False
+WH-01,2023-05-01,Apparel,1096,282,False
+WH-01,2023-05-01,Home Goods,3819,1228,False
+WH-01,2023-05-01,Industrial Parts,1642,547,False
+WH-01,2023-05-01,Perishables,2171,1100,False
+WH-02,2023-05-01,Electronics,934,447,False
+WH-02,2023-05-01,Apparel,2241,853,False
+WH-02,2023-05-01,Home Goods,2590,928,False
+WH-02,2023-05-01,Industrial Parts,610,567,False
+WH-02,2023-05-01,Perishables,105,1174,True
+WH-03,2023-05-01,Electronics,545,503,False
+WH-03,2023-05-01,Apparel,405,153,False
+WH-03,2023-05-01,Home Goods,1730,536,False
+WH-03,2023-05-01,Industrial Parts,1341,1028,False
+WH-03,2023-05-01,Perishables,1345,713,False
+WH-04,2023-05-01,Electronics,1810,695,False
+WH-04,2023-05-01,Apparel,1300,462,False
+WH-04,2023-05-01,Home Goods,810,647,False
+WH-04,2023-05-01,Industrial Parts,1376,647,False
+WH-04,2023-05-01,Perishables,1331,821,False
+WH-05,2023-05-01,Electronics,615,263,False
+WH-05,2023-05-01,Apparel,24,593,True
+WH-05,2023-05-01,Home Goods,684,334,False
+WH-05,2023-05-01,Industrial Parts,1723,835,False
+WH-05,2023-05-01,Perishables,1013,788,False
+WH-06,2023-05-01,Electronics,1525,524,False
+WH-06,2023-05-01,Apparel,1176,401,False
+WH-06,2023-05-01,Home Goods,2369,602,False
+WH-06,2023-05-01,Industrial Parts,126,522,True
+WH-06,2023-05-01,Perishables,981,817,False
+WH-07,2023-05-01,Electronics,623,199,False
+WH-07,2023-05-01,Apparel,564,176,False
+WH-07,2023-05-01,Home Goods,1534,408,False
+WH-07,2023-05-01,Industrial Parts,1055,433,False
+WH-07,2023-05-01,Perishables,631,239,False
+WH-08,2023-05-01,Electronics,1164,313,False
+WH-08,2023-05-01,Apparel,3176,981,False
+WH-08,2023-05-01,Home Goods,697,190,False
+WH-08,2023-05-01,Industrial Parts,2780,894,False
+WH-08,2023-05-01,Perishables,3521,1182,False
+WH-09,2023-05-01,Electronics,729,189,False
+WH-09,2023-05-01,Apparel,136,678,True
+WH-09,2023-05-01,Home Goods,1885,533,False
+WH-09,2023-05-01,Industrial Parts,1776,520,False
+WH-09,2023-05-01,Perishables,1484,465,False
+WH-10,2023-05-01,Electronics,1197,578,False
+WH-10,2023-05-01,Apparel,2646,791,False
+WH-10,2023-05-01,Home Goods,1023,599,False
+WH-10,2023-05-01,Industrial Parts,414,154,False
+WH-10,2023-05-01,Perishables,113,670,True
+WH-11,2023-05-01,Electronics,1515,1006,False
+WH-11,2023-05-01,Apparel,2871,999,False
+WH-11,2023-05-01,Home Goods,289,209,False
+WH-11,2023-05-01,Industrial Parts,642,538,False
+WH-11,2023-05-01,Perishables,467,218,False
+WH-12,2023-05-01,Electronics,4714,1235,False
+WH-12,2023-05-01,Apparel,6,279,True
+WH-12,2023-05-01,Home Goods,670,263,False
+WH-12,2023-05-01,Industrial Parts,1020,304,False
+WH-12,2023-05-01,Perishables,2677,1141,False
+WH-01,2023-06-01,Electronics,543,209,False
+WH-01,2023-06-01,Apparel,1361,781,False
+WH-01,2023-06-01,Home Goods,1981,840,False
+WH-01,2023-06-01,Industrial Parts,1815,642,False
+WH-01,2023-06-01,Perishables,1227,433,False
+WH-02,2023-06-01,Electronics,2039,1036,False
+WH-02,2023-06-01,Apparel,514,129,False
+WH-02,2023-06-01,Home Goods,1862,629,False
+WH-02,2023-06-01,Industrial Parts,1005,917,False
+WH-02,2023-06-01,Perishables,811,274,False
+WH-03,2023-06-01,Electronics,1194,506,False
+WH-03,2023-06-01,Apparel,1247,1131,False
+WH-03,2023-06-01,Home Goods,1361,964,False
+WH-03,2023-06-01,Industrial Parts,2660,904,False
+WH-03,2023-06-01,Perishables,1152,614,False
+WH-04,2023-06-01,Electronics,674,628,False
+WH-04,2023-06-01,Apparel,1096,313,False
+WH-04,2023-06-01,Home Goods,3341,850,False
+WH-04,2023-06-01,Industrial Parts,800,310,False
+WH-04,2023-06-01,Perishables,2517,781,False
+WH-05,2023-06-01,Electronics,494,226,False
+WH-05,2023-06-01,Apparel,584,529,False
+WH-05,2023-06-01,Home Goods,4231,1197,False
+WH-05,2023-06-01,Industrial Parts,3012,1024,False
+WH-05,2023-06-01,Perishables,1376,344,False
+WH-06,2023-06-01,Electronics,1298,451,False
+WH-06,2023-06-01,Apparel,46,181,True
+WH-06,2023-06-01,Home Goods,1225,461,False
+WH-06,2023-06-01,Industrial Parts,1535,787,False
+WH-06,2023-06-01,Perishables,2687,979,False
+WH-07,2023-06-01,Electronics,568,212,False
+WH-07,2023-06-01,Apparel,547,199,False
+WH-07,2023-06-01,Home Goods,2179,711,False
+WH-07,2023-06-01,Industrial Parts,286,211,False
+WH-07,2023-06-01,Perishables,1682,651,False
+WH-08,2023-06-01,Electronics,23,544,True
+WH-08,2023-06-01,Apparel,3397,1159,False
+WH-08,2023-06-01,Home Goods,664,475,False
+WH-08,2023-06-01,Industrial Parts,1597,1246,False
+WH-08,2023-06-01,Perishables,589,444,False
+WH-09,2023-06-01,Electronics,1334,1077,False
+WH-09,2023-06-01,Apparel,1248,884,False
+WH-09,2023-06-01,Home Goods,424,255,False
+WH-09,2023-06-01,Industrial Parts,337,204,False
+WH-09,2023-06-01,Perishables,4619,1238,False
+WH-10,2023-06-01,Electronics,662,204,False
+WH-10,2023-06-01,Apparel,559,475,False
+WH-10,2023-06-01,Home Goods,3441,972,False
+WH-10,2023-06-01,Industrial Parts,2451,1103,False
+WH-10,2023-06-01,Perishables,3,503,True
+WH-11,2023-06-01,Electronics,1563,538,False
+WH-11,2023-06-01,Apparel,2462,1026,False
+WH-11,2023-06-01,Home Goods,98,741,True
+WH-11,2023-06-01,Industrial Parts,732,514,False
+WH-11,2023-06-01,Perishables,832,497,False
+WH-12,2023-06-01,Electronics,348,136,False
+WH-12,2023-06-01,Apparel,22,198,True
+WH-12,2023-06-01,Home Goods,1812,578,False
+WH-12,2023-06-01,Industrial Parts,3969,1176,False
+WH-12,2023-06-01,Perishables,2835,1016,False
+WH-01,2023-07-01,Electronics,1142,550,False
+WH-01,2023-07-01,Apparel,631,165,False
+WH-01,2023-07-01,Home Goods,2049,626,False
+WH-01,2023-07-01,Industrial Parts,823,549,False
+WH-01,2023-07-01,Perishables,3877,1041,False
+WH-02,2023-07-01,Electronics,758,658,False
+WH-02,2023-07-01,Apparel,123,789,True
+WH-02,2023-07-01,Home Goods,13,142,True
+WH-02,2023-07-01,Industrial Parts,1512,446,False
+WH-02,2023-07-01,Perishables,656,181,False
+WH-03,2023-07-01,Electronics,762,221,False
+WH-03,2023-07-01,Apparel,312,1177,True
+WH-03,2023-07-01,Home Goods,477,170,False
+WH-03,2023-07-01,Industrial Parts,425,174,False
+WH-03,2023-07-01,Perishables,2898,1059,False
+WH-04,2023-07-01,Electronics,1273,906,False
+WH-04,2023-07-01,Apparel,3432,900,False
+WH-04,2023-07-01,Home Goods,394,153,False
+WH-04,2023-07-01,Industrial Parts,998,478,False
+WH-04,2023-07-01,Perishables,1233,780,False
+WH-05,2023-07-01,Electronics,1020,911,False
+WH-05,2023-07-01,Apparel,3683,1181,False
+WH-05,2023-07-01,Home Goods,839,600,False
+WH-05,2023-07-01,Industrial Parts,837,752,False
+WH-05,2023-07-01,Perishables,1772,641,False
+WH-06,2023-07-01,Electronics,1090,1033,False
+WH-06,2023-07-01,Apparel,2906,1117,False
+WH-06,2023-07-01,Home Goods,605,309,False
+WH-06,2023-07-01,Industrial Parts,360,129,False
+WH-06,2023-07-01,Perishables,2412,966,False
+WH-07,2023-07-01,Electronics,1309,497,False
+WH-07,2023-07-01,Apparel,1946,515,False
+WH-07,2023-07-01,Home Goods,3744,979,False
+WH-07,2023-07-01,Industrial Parts,2981,805,False
+WH-07,2023-07-01,Perishables,1479,1059,False
+WH-08,2023-07-01,Electronics,2021,629,False
+WH-08,2023-07-01,Apparel,202,194,False
+WH-08,2023-07-01,Home Goods,1134,1080,False
+WH-08,2023-07-01,Industrial Parts,624,254,False
+WH-08,2023-07-01,Perishables,591,206,False
+WH-09,2023-07-01,Electronics,3031,1030,False
+WH-09,2023-07-01,Apparel,894,323,False
+WH-09,2023-07-01,Home Goods,3423,1016,False
+WH-09,2023-07-01,Industrial Parts,2604,959,False
+WH-09,2023-07-01,Perishables,1840,822,False
+WH-10,2023-07-01,Electronics,2553,913,False
+WH-10,2023-07-01,Apparel,3472,933,False
+WH-10,2023-07-01,Home Goods,1849,839,False
+WH-10,2023-07-01,Industrial Parts,541,173,False
+WH-10,2023-07-01,Perishables,4091,1085,False
+WH-11,2023-07-01,Electronics,635,253,False
+WH-11,2023-07-01,Apparel,4181,1169,False
+WH-11,2023-07-01,Home Goods,2641,808,False
+WH-11,2023-07-01,Industrial Parts,2511,802,False
+WH-11,2023-07-01,Perishables,3100,1207,False
+WH-12,2023-07-01,Electronics,1756,596,False
+WH-12,2023-07-01,Apparel,3015,1004,False
+WH-12,2023-07-01,Home Goods,2755,749,False
+WH-12,2023-07-01,Industrial Parts,1151,745,False
+WH-12,2023-07-01,Perishables,3646,1023,False
+WH-01,2023-08-01,Electronics,160,1184,True
+WH-01,2023-08-01,Apparel,286,157,False
+WH-01,2023-08-01,Home Goods,1245,749,False
+WH-01,2023-08-01,Industrial Parts,1371,445,False
+WH-01,2023-08-01,Perishables,528,137,False
+WH-02,2023-08-01,Electronics,1726,453,False
+WH-02,2023-08-01,Apparel,71,637,True
+WH-02,2023-08-01,Home Goods,1040,444,False
+WH-02,2023-08-01,Industrial Parts,111,808,True
+WH-02,2023-08-01,Perishables,2507,633,False
+WH-03,2023-08-01,Electronics,3402,1069,False
+WH-03,2023-08-01,Apparel,253,965,True
+WH-03,2023-08-01,Home Goods,1176,369,False
+WH-03,2023-08-01,Industrial Parts,784,694,False
+WH-03,2023-08-01,Perishables,2117,771,False
+WH-04,2023-08-01,Electronics,2455,752,False
+WH-04,2023-08-01,Apparel,1475,433,False
+WH-04,2023-08-01,Home Goods,2229,1081,False
+WH-04,2023-08-01,Industrial Parts,2721,839,False
+WH-04,2023-08-01,Perishables,274,191,False
+WH-05,2023-08-01,Electronics,4520,1199,False
+WH-05,2023-08-01,Apparel,644,542,False
+WH-05,2023-08-01,Home Goods,2735,1227,False
+WH-05,2023-08-01,Industrial Parts,1148,904,False
+WH-05,2023-08-01,Perishables,710,429,False
+WH-06,2023-08-01,Electronics,1155,296,False
+WH-06,2023-08-01,Apparel,3524,1152,False
+WH-06,2023-08-01,Home Goods,1806,745,False
+WH-06,2023-08-01,Industrial Parts,2178,599,False
+WH-06,2023-08-01,Perishables,1002,594,False
+WH-07,2023-08-01,Electronics,410,242,False
+WH-07,2023-08-01,Apparel,478,138,False
+WH-07,2023-08-01,Home Goods,1811,909,False
+WH-07,2023-08-01,Industrial Parts,725,450,False
+WH-07,2023-08-01,Perishables,1395,1157,False
+WH-08,2023-08-01,Electronics,878,295,False
+WH-08,2023-08-01,Apparel,3407,882,False
+WH-08,2023-08-01,Home Goods,591,358,False
+WH-08,2023-08-01,Industrial Parts,773,711,False
+WH-08,2023-08-01,Perishables,2852,797,False
+WH-09,2023-08-01,Electronics,1603,544,False
+WH-09,2023-08-01,Apparel,222,162,False
+WH-09,2023-08-01,Home Goods,431,138,False
+WH-09,2023-08-01,Industrial Parts,2110,791,False
+WH-09,2023-08-01,Perishables,1820,953,False
+WH-10,2023-08-01,Electronics,1821,909,False
+WH-10,2023-08-01,Apparel,49,577,True
+WH-10,2023-08-01,Home Goods,1808,1086,False
+WH-10,2023-08-01,Industrial Parts,1093,623,False
+WH-10,2023-08-01,Perishables,1302,640,False
+WH-11,2023-08-01,Electronics,1038,696,False
+WH-11,2023-08-01,Apparel,1446,1099,False
+WH-11,2023-08-01,Home Goods,1652,977,False
+WH-11,2023-08-01,Industrial Parts,2438,768,False
+WH-11,2023-08-01,Perishables,1104,417,False
+WH-12,2023-08-01,Electronics,113,953,True
+WH-12,2023-08-01,Apparel,2457,761,False
+WH-12,2023-08-01,Home Goods,281,152,False
+WH-12,2023-08-01,Industrial Parts,1338,1130,False
+WH-12,2023-08-01,Perishables,28,194,True
+WH-01,2023-09-01,Electronics,1602,1099,False
+WH-01,2023-09-01,Apparel,1162,333,False
+WH-01,2023-09-01,Home Goods,477,334,False
+WH-01,2023-09-01,Industrial Parts,237,997,True
+WH-01,2023-09-01,Perishables,2738,805,False
+WH-02,2023-09-01,Electronics,2494,787,False
+WH-02,2023-09-01,Apparel,63,574,True
+WH-02,2023-09-01,Home Goods,157,133,False
+WH-02,2023-09-01,Industrial Parts,1673,840,False
+WH-02,2023-09-01,Perishables,1052,852,False
+WH-03,2023-09-01,Electronics,1040,319,False
+WH-03,2023-09-01,Apparel,4015,1058,False
+WH-03,2023-09-01,Home Goods,1347,399,False
+WH-03,2023-09-01,Industrial Parts,2467,970,False
+WH-03,2023-09-01,Perishables,628,592,False
+WH-04,2023-09-01,Electronics,3465,1088,False
+WH-04,2023-09-01,Apparel,1347,1021,False
+WH-04,2023-09-01,Home Goods,1312,744,False
+WH-04,2023-09-01,Industrial Parts,1024,545,False
+WH-04,2023-09-01,Perishables,174,134,False
+WH-05,2023-09-01,Electronics,1642,618,False
+WH-05,2023-09-01,Apparel,1837,981,False
+WH-05,2023-09-01,Home Goods,4108,1096,False
+WH-05,2023-09-01,Industrial Parts,2927,1035,False
+WH-05,2023-09-01,Perishables,739,479,False
+WH-06,2023-09-01,Electronics,2208,910,False
+WH-06,2023-09-01,Apparel,775,770,False
+WH-06,2023-09-01,Home Goods,1407,548,False
+WH-06,2023-09-01,Industrial Parts,1712,838,False
+WH-06,2023-09-01,Perishables,1011,495,False
+WH-07,2023-09-01,Electronics,693,196,False
+WH-07,2023-09-01,Apparel,1706,804,False
+WH-07,2023-09-01,Home Goods,3615,918,False
+WH-07,2023-09-01,Industrial Parts,1255,646,False
+WH-07,2023-09-01,Perishables,553,232,False
+WH-08,2023-09-01,Electronics,2502,644,False
+WH-08,2023-09-01,Apparel,1665,894,False
+WH-08,2023-09-01,Home Goods,1824,531,False
+WH-08,2023-09-01,Industrial Parts,1855,1210,False
+WH-08,2023-09-01,Perishables,1471,806,False
+WH-09,2023-09-01,Electronics,1306,352,False
+WH-09,2023-09-01,Apparel,2742,871,False
+WH-09,2023-09-01,Home Goods,4327,1107,False
+WH-09,2023-09-01,Industrial Parts,619,470,False
+WH-09,2023-09-01,Perishables,2766,784,False
+WH-10,2023-09-01,Electronics,1278,420,False
+WH-10,2023-09-01,Apparel,827,421,False
+WH-10,2023-09-01,Home Goods,4081,1038,False
+WH-10,2023-09-01,Industrial Parts,507,163,False
+WH-10,2023-09-01,Perishables,1698,463,False
+WH-11,2023-09-01,Electronics,1615,597,False
+WH-11,2023-09-01,Apparel,499,322,False
+WH-11,2023-09-01,Home Goods,1946,530,False
+WH-11,2023-09-01,Industrial Parts,13,466,True
+WH-11,2023-09-01,Perishables,18,640,True
+WH-12,2023-09-01,Electronics,3381,1146,False
+WH-12,2023-09-01,Apparel,548,267,False
+WH-12,2023-09-01,Home Goods,2116,762,False
+WH-12,2023-09-01,Industrial Parts,217,191,False
+WH-12,2023-09-01,Perishables,1521,1081,False
+WH-01,2023-10-01,Electronics,2168,1020,False
+WH-01,2023-10-01,Apparel,2941,757,False
+WH-01,2023-10-01,Home Goods,2271,935,False
+WH-01,2023-10-01,Industrial Parts,1282,1119,False
+WH-01,2023-10-01,Perishables,2400,652,False
+WH-02,2023-10-01,Electronics,1078,993,False
+WH-02,2023-10-01,Apparel,1016,519,False
+WH-02,2023-10-01,Home Goods,2783,773,False
+WH-02,2023-10-01,Industrial Parts,722,576,False
+WH-02,2023-10-01,Perishables,1311,382,False
+WH-03,2023-10-01,Electronics,3250,959,False
+WH-03,2023-10-01,Apparel,1324,952,False
+WH-03,2023-10-01,Home Goods,1446,797,False
+WH-03,2023-10-01,Industrial Parts,3506,1180,False
+WH-03,2023-10-01,Perishables,1073,709,False
+WH-04,2023-10-01,Electronics,57,229,True
+WH-04,2023-10-01,Apparel,627,443,False
+WH-04,2023-10-01,Home Goods,1330,507,False
+WH-04,2023-10-01,Industrial Parts,290,218,False
+WH-04,2023-10-01,Perishables,3045,1224,False
+WH-05,2023-10-01,Electronics,3891,1137,False
+WH-05,2023-10-01,Apparel,761,498,False
+WH-05,2023-10-01,Home Goods,1442,434,False
+WH-05,2023-10-01,Industrial Parts,2407,627,False
+WH-05,2023-10-01,Perishables,2139,1022,False
+WH-06,2023-10-01,Electronics,986,328,False
+WH-06,2023-10-01,Apparel,2316,1139,False
+WH-06,2023-10-01,Home Goods,1472,382,False
+WH-06,2023-10-01,Industrial Parts,1797,960,False
+WH-06,2023-10-01,Perishables,3291,915,False
+WH-07,2023-10-01,Electronics,2385,813,False
+WH-07,2023-10-01,Apparel,2175,854,False
+WH-07,2023-10-01,Home Goods,2627,853,False
+WH-07,2023-10-01,Industrial Parts,1469,717,False
+WH-07,2023-10-01,Perishables,3223,897,False
+WH-08,2023-10-01,Electronics,882,408,False
+WH-08,2023-10-01,Apparel,1776,877,False
+WH-08,2023-10-01,Home Goods,1125,514,False
+WH-08,2023-10-01,Industrial Parts,965,413,False
+WH-08,2023-10-01,Perishables,1203,538,False
+WH-09,2023-10-01,Electronics,2113,781,False
+WH-09,2023-10-01,Apparel,2176,646,False
+WH-09,2023-10-01,Home Goods,3462,1085,False
+WH-09,2023-10-01,Industrial Parts,1735,1224,False
+WH-09,2023-10-01,Perishables,35,381,True
+WH-10,2023-10-01,Electronics,4242,1127,False
+WH-10,2023-10-01,Apparel,647,351,False
+WH-10,2023-10-01,Home Goods,317,308,False
+WH-10,2023-10-01,Industrial Parts,282,194,False
+WH-10,2023-10-01,Perishables,682,442,False
+WH-11,2023-10-01,Electronics,2459,1153,False
+WH-11,2023-10-01,Apparel,2768,1147,False
+WH-11,2023-10-01,Home Goods,897,498,False
+WH-11,2023-10-01,Industrial Parts,310,1190,True
+WH-11,2023-10-01,Perishables,1789,624,False
+WH-12,2023-10-01,Electronics,924,352,False
+WH-12,2023-10-01,Apparel,308,192,False
+WH-12,2023-10-01,Home Goods,893,505,False
+WH-12,2023-10-01,Industrial Parts,1609,469,False
+WH-12,2023-10-01,Perishables,2010,625,False
+WH-01,2023-11-01,Electronics,1596,696,False
+WH-01,2023-11-01,Apparel,3237,1129,False
+WH-01,2023-11-01,Home Goods,80,1096,True
+WH-01,2023-11-01,Industrial Parts,7,933,True
+WH-01,2023-11-01,Perishables,342,232,False
+WH-02,2023-11-01,Electronics,2654,780,False
+WH-02,2023-11-01,Apparel,598,200,False
+WH-02,2023-11-01,Home Goods,942,473,False
+WH-02,2023-11-01,Industrial Parts,2594,870,False
+WH-02,2023-11-01,Perishables,1819,669,False
+WH-03,2023-11-01,Electronics,1253,414,False
+WH-03,2023-11-01,Apparel,3815,984,False
+WH-03,2023-11-01,Home Goods,2008,633,False
+WH-03,2023-11-01,Industrial Parts,3123,948,False
+WH-03,2023-11-01,Perishables,1283,345,False
+WH-04,2023-11-01,Electronics,395,189,False
+WH-04,2023-11-01,Apparel,3500,1091,False
+WH-04,2023-11-01,Home Goods,2303,915,False
+WH-04,2023-11-01,Industrial Parts,2555,748,False
+WH-04,2023-11-01,Perishables,46,784,True
+WH-05,2023-11-01,Electronics,1787,549,False
+WH-05,2023-11-01,Apparel,514,135,False
+WH-05,2023-11-01,Home Goods,2009,505,False
+WH-05,2023-11-01,Industrial Parts,3272,1215,False
+WH-05,2023-11-01,Perishables,2967,801,False
+WH-06,2023-11-01,Electronics,1172,316,False
+WH-06,2023-11-01,Apparel,2037,1129,False
+WH-06,2023-11-01,Home Goods,2051,1028,False
+WH-06,2023-11-01,Industrial Parts,3080,777,False
+WH-06,2023-11-01,Perishables,250,1119,True
+WH-07,2023-11-01,Electronics,151,1049,True
+WH-07,2023-11-01,Apparel,3924,1246,False
+WH-07,2023-11-01,Home Goods,565,484,False
+WH-07,2023-11-01,Industrial Parts,1423,398,False
+WH-07,2023-11-01,Perishables,916,284,False
+WH-08,2023-11-01,Electronics,1201,477,False
+WH-08,2023-11-01,Apparel,1227,473,False
+WH-08,2023-11-01,Home Goods,722,294,False
+WH-08,2023-11-01,Industrial Parts,673,286,False
+WH-08,2023-11-01,Perishables,2350,786,False
+WH-09,2023-11-01,Electronics,2275,958,False
+WH-09,2023-11-01,Apparel,1309,529,False
+WH-09,2023-11-01,Home Goods,436,164,False
+WH-09,2023-11-01,Industrial Parts,1701,928,False
+WH-09,2023-11-01,Perishables,1683,548,False
+WH-10,2023-11-01,Electronics,641,373,False
+WH-10,2023-11-01,Apparel,1144,381,False
+WH-10,2023-11-01,Home Goods,1910,482,False
+WH-10,2023-11-01,Industrial Parts,1708,858,False
+WH-10,2023-11-01,Perishables,36,584,True
+WH-11,2023-11-01,Electronics,229,226,False
+WH-11,2023-11-01,Apparel,3032,1044,False
+WH-11,2023-11-01,Home Goods,632,548,False
+WH-11,2023-11-01,Industrial Parts,3822,1040,False
+WH-11,2023-11-01,Perishables,18,347,True
+WH-12,2023-11-01,Electronics,1189,646,False
+WH-12,2023-11-01,Apparel,1890,791,False
+WH-12,2023-11-01,Home Goods,902,521,False
+WH-12,2023-11-01,Industrial Parts,444,267,False
+WH-12,2023-11-01,Perishables,588,167,False
+WH-01,2023-12-01,Electronics,2204,624,False
+WH-01,2023-12-01,Apparel,806,244,False
+WH-01,2023-12-01,Home Goods,2029,791,False
+WH-01,2023-12-01,Industrial Parts,186,944,True
+WH-01,2023-12-01,Perishables,2,433,True
+WH-02,2023-12-01,Electronics,2765,1221,False
+WH-02,2023-12-01,Apparel,28,906,True
+WH-02,2023-12-01,Home Goods,644,607,False
+WH-02,2023-12-01,Industrial Parts,1736,1151,False
+WH-02,2023-12-01,Perishables,913,235,False
+WH-03,2023-12-01,Electronics,1057,325,False
+WH-03,2023-12-01,Apparel,3142,1100,False
+WH-03,2023-12-01,Home Goods,1066,1035,False
+WH-03,2023-12-01,Industrial Parts,2143,1007,False
+WH-03,2023-12-01,Perishables,1554,780,False
+WH-04,2023-12-01,Electronics,2116,743,False
+WH-04,2023-12-01,Apparel,1578,575,False
+WH-04,2023-12-01,Home Goods,2047,889,False
+WH-04,2023-12-01,Industrial Parts,3348,987,False
+WH-04,2023-12-01,Perishables,2177,659,False
+WH-05,2023-12-01,Electronics,3055,854,False
+WH-05,2023-12-01,Apparel,2531,877,False
+WH-05,2023-12-01,Home Goods,786,686,False
+WH-05,2023-12-01,Industrial Parts,3706,949,False
+WH-05,2023-12-01,Perishables,2017,834,False
+WH-06,2023-12-01,Electronics,348,325,False
+WH-06,2023-12-01,Apparel,547,476,False
+WH-06,2023-12-01,Home Goods,508,415,False
+WH-06,2023-12-01,Industrial Parts,2177,901,False
+WH-06,2023-12-01,Perishables,2852,766,False
+WH-07,2023-12-01,Electronics,1805,860,False
+WH-07,2023-12-01,Apparel,1602,1189,False
+WH-07,2023-12-01,Home Goods,1559,870,False
+WH-07,2023-12-01,Industrial Parts,2075,870,False
+WH-07,2023-12-01,Perishables,1919,646,False
+WH-08,2023-12-01,Electronics,2777,972,False
+WH-08,2023-12-01,Apparel,1470,1074,False
+WH-08,2023-12-01,Home Goods,2346,587,False
+WH-08,2023-12-01,Industrial Parts,1201,962,False
+WH-08,2023-12-01,Perishables,1341,1028,False
+WH-09,2023-12-01,Electronics,4017,1138,False
+WH-09,2023-12-01,Apparel,1739,521,False
+WH-09,2023-12-01,Home Goods,631,570,False
+WH-09,2023-12-01,Industrial Parts,2831,755,False
+WH-09,2023-12-01,Perishables,3349,1175,False
+WH-10,2023-12-01,Electronics,2144,765,False
+WH-10,2023-12-01,Apparel,1603,1074,False
+WH-10,2023-12-01,Home Goods,1607,467,False
+WH-10,2023-12-01,Industrial Parts,1759,874,False
+WH-10,2023-12-01,Perishables,1901,667,False
+WH-11,2023-12-01,Electronics,715,602,False
+WH-11,2023-12-01,Apparel,958,274,False
+WH-11,2023-12-01,Home Goods,268,194,False
+WH-11,2023-12-01,Industrial Parts,2666,1061,False
+WH-11,2023-12-01,Perishables,4786,1244,False
+WH-12,2023-12-01,Electronics,672,367,False
+WH-12,2023-12-01,Apparel,1232,1037,False
+WH-12,2023-12-01,Home Goods,1737,623,False
+WH-12,2023-12-01,Industrial Parts,2235,896,False
+WH-12,2023-12-01,Perishables,741,283,False
+WH-01,2024-01-01,Electronics,2438,877,False
+WH-01,2024-01-01,Apparel,2245,587,False
+WH-01,2024-01-01,Home Goods,975,682,False
+WH-01,2024-01-01,Industrial Parts,2423,1143,False
+WH-01,2024-01-01,Perishables,2785,1020,False
+WH-02,2024-01-01,Electronics,711,192,False
+WH-02,2024-01-01,Apparel,2169,921,False
+WH-02,2024-01-01,Home Goods,1067,347,False
+WH-02,2024-01-01,Industrial Parts,3581,1136,False
+WH-02,2024-01-01,Perishables,1618,650,False
+WH-03,2024-01-01,Electronics,1825,766,False
+WH-03,2024-01-01,Apparel,1008,355,False
+WH-03,2024-01-01,Home Goods,198,167,False
+WH-03,2024-01-01,Industrial Parts,1282,914,False
+WH-03,2024-01-01,Perishables,2469,998,False
+WH-04,2024-01-01,Electronics,2003,1121,False
+WH-04,2024-01-01,Apparel,895,394,False
+WH-04,2024-01-01,Home Goods,3341,1065,False
+WH-04,2024-01-01,Industrial Parts,1456,1091,False
+WH-04,2024-01-01,Perishables,1548,644,False
+WH-05,2024-01-01,Electronics,927,775,False
+WH-05,2024-01-01,Apparel,1859,629,False
+WH-05,2024-01-01,Home Goods,1084,796,False
+WH-05,2024-01-01,Industrial Parts,2630,866,False
+WH-05,2024-01-01,Perishables,3838,1115,False
+WH-06,2024-01-01,Electronics,528,238,False
+WH-06,2024-01-01,Apparel,611,250,False
+WH-06,2024-01-01,Home Goods,2789,923,False
+WH-06,2024-01-01,Industrial Parts,765,665,False
+WH-06,2024-01-01,Perishables,3148,844,False
+WH-07,2024-01-01,Electronics,2685,781,False
+WH-07,2024-01-01,Apparel,3782,949,False
+WH-07,2024-01-01,Home Goods,1479,873,False
+WH-07,2024-01-01,Industrial Parts,620,221,False
+WH-07,2024-01-01,Perishables,2088,893,False
+WH-08,2024-01-01,Electronics,1267,883,False
+WH-08,2024-01-01,Apparel,2566,1237,False
+WH-08,2024-01-01,Home Goods,2200,810,False
+WH-08,2024-01-01,Industrial Parts,914,538,False
+WH-08,2024-01-01,Perishables,1914,734,False
+WH-09,2024-01-01,Electronics,3366,1103,False
+WH-09,2024-01-01,Apparel,866,865,False
+WH-09,2024-01-01,Home Goods,1069,1036,False
+WH-09,2024-01-01,Industrial Parts,588,266,False
+WH-09,2024-01-01,Perishables,969,459,False
+WH-10,2024-01-01,Electronics,132,513,True
+WH-10,2024-01-01,Apparel,520,233,False
+WH-10,2024-01-01,Home Goods,178,140,False
+WH-10,2024-01-01,Industrial Parts,2116,626,False
+WH-10,2024-01-01,Perishables,969,422,False
+WH-11,2024-01-01,Electronics,403,314,False
+WH-11,2024-01-01,Apparel,1090,666,False
+WH-11,2024-01-01,Home Goods,658,624,False
+WH-11,2024-01-01,Industrial Parts,1436,1236,False
+WH-11,2024-01-01,Perishables,1613,663,False
+WH-12,2024-01-01,Electronics,1555,776,False
+WH-12,2024-01-01,Apparel,1993,793,False
+WH-12,2024-01-01,Home Goods,1456,531,False
+WH-12,2024-01-01,Industrial Parts,1246,789,False
+WH-12,2024-01-01,Perishables,2112,783,False
+WH-01,2024-02-01,Electronics,1317,713,False
+WH-01,2024-02-01,Apparel,795,580,False
+WH-01,2024-02-01,Home Goods,214,1205,True
+WH-01,2024-02-01,Industrial Parts,1997,1120,False
+WH-01,2024-02-01,Perishables,1101,753,False
+WH-02,2024-02-01,Electronics,1286,489,False
+WH-02,2024-02-01,Apparel,609,249,False
+WH-02,2024-02-01,Home Goods,695,527,False
+WH-02,2024-02-01,Industrial Parts,1463,499,False
+WH-02,2024-02-01,Perishables,2566,857,False
+WH-03,2024-02-01,Electronics,860,279,False
+WH-03,2024-02-01,Apparel,326,225,False
+WH-03,2024-02-01,Home Goods,418,344,False
+WH-03,2024-02-01,Industrial Parts,546,279,False
+WH-03,2024-02-01,Perishables,345,266,False
+WH-04,2024-02-01,Electronics,984,657,False
+WH-04,2024-02-01,Apparel,1003,259,False
+WH-04,2024-02-01,Home Goods,1933,832,False
+WH-04,2024-02-01,Industrial Parts,965,490,False
+WH-04,2024-02-01,Perishables,223,976,True
+WH-05,2024-02-01,Electronics,2372,856,False
+WH-05,2024-02-01,Apparel,2575,651,False
+WH-05,2024-02-01,Home Goods,4042,1159,False
+WH-05,2024-02-01,Industrial Parts,1451,477,False
+WH-05,2024-02-01,Perishables,2887,898,False
+WH-06,2024-02-01,Electronics,1058,959,False
+WH-06,2024-02-01,Apparel,1240,1129,False
+WH-06,2024-02-01,Home Goods,1385,581,False
+WH-06,2024-02-01,Industrial Parts,2633,674,False
+WH-06,2024-02-01,Perishables,2472,774,False
+WH-07,2024-02-01,Electronics,2629,730,False
+WH-07,2024-02-01,Apparel,1678,669,False
+WH-07,2024-02-01,Home Goods,1865,955,False
+WH-07,2024-02-01,Industrial Parts,317,221,False
+WH-07,2024-02-01,Perishables,1873,660,False
+WH-08,2024-02-01,Electronics,2206,841,False
+WH-08,2024-02-01,Apparel,1138,574,False
+WH-08,2024-02-01,Home Goods,616,455,False
+WH-08,2024-02-01,Industrial Parts,375,157,False
+WH-08,2024-02-01,Perishables,2068,522,False
+WH-09,2024-02-01,Electronics,242,140,False
+WH-09,2024-02-01,Apparel,314,261,False
+WH-09,2024-02-01,Home Goods,1047,914,False
+WH-09,2024-02-01,Industrial Parts,2373,969,False
+WH-09,2024-02-01,Perishables,974,678,False
+WH-10,2024-02-01,Electronics,267,201,False
+WH-10,2024-02-01,Apparel,166,596,True
+WH-10,2024-02-01,Home Goods,2386,636,False
+WH-10,2024-02-01,Industrial Parts,2733,772,False
+WH-10,2024-02-01,Perishables,936,878,False
+WH-11,2024-02-01,Electronics,3372,1147,False
+WH-11,2024-02-01,Apparel,1885,751,False
+WH-11,2024-02-01,Home Goods,1215,753,False
+WH-11,2024-02-01,Industrial Parts,1613,594,False
+WH-11,2024-02-01,Perishables,2095,1200,False
+WH-12,2024-02-01,Electronics,3035,1113,False
+WH-12,2024-02-01,Apparel,1180,392,False
+WH-12,2024-02-01,Home Goods,728,572,False
+WH-12,2024-02-01,Industrial Parts,2059,616,False
+WH-12,2024-02-01,Perishables,1270,1068,False
+WH-01,2024-03-01,Electronics,122,701,True
+WH-01,2024-03-01,Apparel,2267,755,False
+WH-01,2024-03-01,Home Goods,295,280,False
+WH-01,2024-03-01,Industrial Parts,646,442,False
+WH-01,2024-03-01,Perishables,1255,740,False
+WH-02,2024-03-01,Electronics,487,406,False
+WH-02,2024-03-01,Apparel,3018,975,False
+WH-02,2024-03-01,Home Goods,680,307,False
+WH-02,2024-03-01,Industrial Parts,3126,973,False
+WH-02,2024-03-01,Perishables,486,137,False
+WH-03,2024-03-01,Electronics,1228,362,False
+WH-03,2024-03-01,Apparel,602,240,False
+WH-03,2024-03-01,Home Goods,2886,906,False
+WH-03,2024-03-01,Industrial Parts,1022,260,False
+WH-03,2024-03-01,Perishables,3008,969,False
+WH-04,2024-03-01,Electronics,1247,811,False
+WH-04,2024-03-01,Apparel,2002,1031,False
+WH-04,2024-03-01,Home Goods,2217,927,False
+WH-04,2024-03-01,Industrial Parts,720,205,False
+WH-04,2024-03-01,Perishables,262,946,True
+WH-05,2024-03-01,Electronics,754,240,False
+WH-05,2024-03-01,Apparel,1041,456,False
+WH-05,2024-03-01,Home Goods,458,321,False
+WH-05,2024-03-01,Industrial Parts,506,293,False
+WH-05,2024-03-01,Perishables,2468,1011,False
+WH-06,2024-03-01,Electronics,994,384,False
+WH-06,2024-03-01,Apparel,367,308,False
+WH-06,2024-03-01,Home Goods,1638,1198,False
+WH-06,2024-03-01,Industrial Parts,1236,958,False
+WH-06,2024-03-01,Perishables,805,287,False
+WH-07,2024-03-01,Electronics,641,391,False
+WH-07,2024-03-01,Apparel,2089,603,False
+WH-07,2024-03-01,Home Goods,21,423,True
+WH-07,2024-03-01,Industrial Parts,1797,680,False
+WH-07,2024-03-01,Perishables,543,170,False
+WH-08,2024-03-01,Electronics,2972,835,False
+WH-08,2024-03-01,Apparel,3110,993,False
+WH-08,2024-03-01,Home Goods,1454,998,False
+WH-08,2024-03-01,Industrial Parts,2751,826,False
+WH-08,2024-03-01,Perishables,1133,635,False
+WH-09,2024-03-01,Electronics,385,140,False
+WH-09,2024-03-01,Apparel,1887,960,False
+WH-09,2024-03-01,Home Goods,1373,638,False
+WH-09,2024-03-01,Industrial Parts,832,744,False
+WH-09,2024-03-01,Perishables,2083,618,False
+WH-10,2024-03-01,Electronics,0,487,True
+WH-10,2024-03-01,Apparel,1178,1052,False
+WH-10,2024-03-01,Home Goods,1268,1022,False
+WH-10,2024-03-01,Industrial Parts,1801,1001,False
+WH-10,2024-03-01,Perishables,1785,821,False
+WH-11,2024-03-01,Electronics,1175,446,False
+WH-11,2024-03-01,Apparel,508,476,False
+WH-11,2024-03-01,Home Goods,3797,1195,False
+WH-11,2024-03-01,Industrial Parts,2516,642,False
+WH-11,2024-03-01,Perishables,1953,1069,False
+WH-12,2024-03-01,Electronics,1395,613,False
+WH-12,2024-03-01,Apparel,4145,1050,False
+WH-12,2024-03-01,Home Goods,670,477,False
+WH-12,2024-03-01,Industrial Parts,2886,775,False
+WH-12,2024-03-01,Perishables,1321,1233,False
+WH-01,2024-04-01,Electronics,1141,849,False
+WH-01,2024-04-01,Apparel,1160,898,False
+WH-01,2024-04-01,Home Goods,3189,1238,False
+WH-01,2024-04-01,Industrial Parts,3587,945,False
+WH-01,2024-04-01,Perishables,1399,822,False
+WH-02,2024-04-01,Electronics,1063,664,False
+WH-02,2024-04-01,Apparel,1424,1059,False
+WH-02,2024-04-01,Home Goods,3110,973,False
+WH-02,2024-04-01,Industrial Parts,3359,1210,False
+WH-02,2024-04-01,Perishables,2297,943,False
+WH-03,2024-04-01,Electronics,2665,666,False
+WH-03,2024-04-01,Apparel,1855,712,False
+WH-03,2024-04-01,Home Goods,1162,909,False
+WH-03,2024-04-01,Industrial Parts,2444,804,False
+WH-03,2024-04-01,Perishables,103,427,True
+WH-04,2024-04-01,Electronics,2959,1042,False
+WH-04,2024-04-01,Apparel,3281,1154,False
+WH-04,2024-04-01,Home Goods,1204,462,False
+WH-04,2024-04-01,Industrial Parts,2663,700,False
+WH-04,2024-04-01,Perishables,2435,617,False
+WH-05,2024-04-01,Electronics,1322,1105,False
+WH-05,2024-04-01,Apparel,2937,951,False
+WH-05,2024-04-01,Home Goods,3356,856,False
+WH-05,2024-04-01,Industrial Parts,37,593,True
+WH-05,2024-04-01,Perishables,3155,854,False
+WH-06,2024-04-01,Electronics,3228,954,False
+WH-06,2024-04-01,Apparel,413,217,False
+WH-06,2024-04-01,Home Goods,1937,868,False
+WH-06,2024-04-01,Industrial Parts,932,342,False
+WH-06,2024-04-01,Perishables,337,207,False
+WH-07,2024-04-01,Electronics,2148,1113,False
+WH-07,2024-04-01,Apparel,906,459,False
+WH-07,2024-04-01,Home Goods,1908,1109,False
+WH-07,2024-04-01,Industrial Parts,1436,1139,False
+WH-07,2024-04-01,Perishables,3377,856,False
+WH-08,2024-04-01,Electronics,1646,638,False
+WH-08,2024-04-01,Apparel,948,650,False
+WH-08,2024-04-01,Home Goods,1618,564,False
+WH-08,2024-04-01,Industrial Parts,3658,1091,False
+WH-08,2024-04-01,Perishables,3612,1247,False
+WH-09,2024-04-01,Electronics,599,378,False
+WH-09,2024-04-01,Apparel,830,340,False
+WH-09,2024-04-01,Home Goods,2483,1195,False
+WH-09,2024-04-01,Industrial Parts,1273,348,False
+WH-09,2024-04-01,Perishables,2474,972,False
+WH-10,2024-04-01,Electronics,1562,1184,False
+WH-10,2024-04-01,Apparel,309,272,False
+WH-10,2024-04-01,Home Goods,616,504,False
+WH-10,2024-04-01,Industrial Parts,332,263,False
+WH-10,2024-04-01,Perishables,30,225,True
+WH-11,2024-04-01,Electronics,1683,431,False
+WH-11,2024-04-01,Apparel,1334,1170,False
+WH-11,2024-04-01,Home Goods,1790,616,False
+WH-11,2024-04-01,Industrial Parts,77,560,True
+WH-11,2024-04-01,Perishables,1045,362,False
+WH-12,2024-04-01,Electronics,1285,634,False
+WH-12,2024-04-01,Apparel,83,962,True
+WH-12,2024-04-01,Home Goods,2393,799,False
+WH-12,2024-04-01,Industrial Parts,1285,1166,False
+WH-12,2024-04-01,Perishables,3048,772,False
+WH-01,2024-05-01,Electronics,875,424,False
+WH-01,2024-05-01,Apparel,627,333,False
+WH-01,2024-05-01,Home Goods,1231,368,False
+WH-01,2024-05-01,Industrial Parts,39,1062,True
+WH-01,2024-05-01,Perishables,411,343,False
+WH-02,2024-05-01,Electronics,78,301,True
+WH-02,2024-05-01,Apparel,1593,629,False
+WH-02,2024-05-01,Home Goods,1525,1110,False
+WH-02,2024-05-01,Industrial Parts,163,139,False
+WH-02,2024-05-01,Perishables,573,391,False
+WH-03,2024-05-01,Electronics,482,343,False
+WH-03,2024-05-01,Apparel,4309,1245,False
+WH-03,2024-05-01,Home Goods,209,183,False
+WH-03,2024-05-01,Industrial Parts,371,225,False
+WH-03,2024-05-01,Perishables,2724,699,False
+WH-04,2024-05-01,Electronics,1215,353,False
+WH-04,2024-05-01,Apparel,302,151,False
+WH-04,2024-05-01,Home Goods,2903,1215,False
+WH-04,2024-05-01,Industrial Parts,1145,565,False
+WH-04,2024-05-01,Perishables,1866,507,False
+WH-05,2024-05-01,Electronics,2962,851,False
+WH-05,2024-05-01,Apparel,1748,877,False
+WH-05,2024-05-01,Home Goods,2866,1063,False
+WH-05,2024-05-01,Industrial Parts,2655,981,False
+WH-05,2024-05-01,Perishables,46,551,True
+WH-06,2024-05-01,Electronics,1550,1027,False
+WH-06,2024-05-01,Apparel,19,185,True
+WH-06,2024-05-01,Home Goods,1267,359,False
+WH-06,2024-05-01,Industrial Parts,610,294,False
+WH-06,2024-05-01,Perishables,2982,855,False
+WH-07,2024-05-01,Electronics,2477,670,False
+WH-07,2024-05-01,Apparel,3278,1131,False
+WH-07,2024-05-01,Home Goods,1342,878,False
+WH-07,2024-05-01,Industrial Parts,1583,787,False
+WH-07,2024-05-01,Perishables,3608,1214,False
+WH-08,2024-05-01,Electronics,12,319,True
+WH-08,2024-05-01,Apparel,1745,625,False
+WH-08,2024-05-01,Home Goods,2980,1097,False
+WH-08,2024-05-01,Industrial Parts,1276,695,False
+WH-08,2024-05-01,Perishables,1233,1190,False
+WH-09,2024-05-01,Electronics,4440,1158,False
+WH-09,2024-05-01,Apparel,2675,1075,False
+WH-09,2024-05-01,Home Goods,861,218,False
+WH-09,2024-05-01,Industrial Parts,3318,868,False
+WH-09,2024-05-01,Perishables,535,163,False
+WH-10,2024-05-01,Electronics,1712,771,False
+WH-10,2024-05-01,Apparel,1523,502,False
+WH-10,2024-05-01,Home Goods,1439,447,False
+WH-10,2024-05-01,Industrial Parts,1355,477,False
+WH-10,2024-05-01,Perishables,1979,964,False
+WH-11,2024-05-01,Electronics,397,300,False
+WH-11,2024-05-01,Apparel,1325,589,False
+WH-11,2024-05-01,Home Goods,467,414,False
+WH-11,2024-05-01,Industrial Parts,1350,919,False
+WH-11,2024-05-01,Perishables,667,215,False
+WH-12,2024-05-01,Electronics,1888,477,False
+WH-12,2024-05-01,Apparel,344,289,False
+WH-12,2024-05-01,Home Goods,2381,1115,False
+WH-12,2024-05-01,Industrial Parts,1421,1084,False
+WH-12,2024-05-01,Perishables,533,502,False
+WH-01,2024-06-01,Electronics,672,248,False
+WH-01,2024-06-01,Apparel,2085,826,False
+WH-01,2024-06-01,Home Goods,491,184,False
+WH-01,2024-06-01,Industrial Parts,2001,508,False
+WH-01,2024-06-01,Perishables,1730,584,False
+WH-02,2024-06-01,Electronics,3097,798,False
+WH-02,2024-06-01,Apparel,1166,828,False
+WH-02,2024-06-01,Home Goods,778,465,False
+WH-02,2024-06-01,Industrial Parts,995,831,False
+WH-02,2024-06-01,Perishables,413,191,False
+WH-03,2024-06-01,Electronics,3523,885,False
+WH-03,2024-06-01,Apparel,180,923,True
+WH-03,2024-06-01,Home Goods,2873,750,False
+WH-03,2024-06-01,Industrial Parts,1002,311,False
+WH-03,2024-06-01,Perishables,492,252,False
+WH-04,2024-06-01,Electronics,3045,1169,False
+WH-04,2024-06-01,Apparel,2025,535,False
+WH-04,2024-06-01,Home Goods,301,271,False
+WH-04,2024-06-01,Industrial Parts,3559,1198,False
+WH-04,2024-06-01,Perishables,745,352,False
+WH-05,2024-06-01,Electronics,1270,338,False
+WH-05,2024-06-01,Apparel,1529,700,False
+WH-05,2024-06-01,Home Goods,470,256,False
+WH-05,2024-06-01,Industrial Parts,186,694,True
+WH-05,2024-06-01,Perishables,3407,880,False
+WH-06,2024-06-01,Electronics,1622,1209,False
+WH-06,2024-06-01,Apparel,2049,533,False
+WH-06,2024-06-01,Home Goods,12,399,True
+WH-06,2024-06-01,Industrial Parts,2872,727,False
+WH-06,2024-06-01,Perishables,2570,742,False
+WH-07,2024-06-01,Electronics,1226,1136,False
+WH-07,2024-06-01,Apparel,874,700,False
+WH-07,2024-06-01,Home Goods,1234,418,False
+WH-07,2024-06-01,Industrial Parts,811,423,False
+WH-07,2024-06-01,Perishables,197,891,True
+WH-08,2024-06-01,Electronics,3394,918,False
+WH-08,2024-06-01,Apparel,1454,1034,False
+WH-08,2024-06-01,Home Goods,915,847,False
+WH-08,2024-06-01,Industrial Parts,309,239,False
+WH-08,2024-06-01,Perishables,2449,776,False
+WH-09,2024-06-01,Electronics,443,170,False
+WH-09,2024-06-01,Apparel,316,125,False
+WH-09,2024-06-01,Home Goods,466,310,False
+WH-09,2024-06-01,Industrial Parts,4308,1104,False
+WH-09,2024-06-01,Perishables,48,609,True
+WH-10,2024-06-01,Electronics,589,450,False
+WH-10,2024-06-01,Apparel,2820,967,False
+WH-10,2024-06-01,Home Goods,1706,487,False
+WH-10,2024-06-01,Industrial Parts,3701,1074,False
+WH-10,2024-06-01,Perishables,2775,886,False
+WH-11,2024-06-01,Electronics,616,157,False
+WH-11,2024-06-01,Apparel,769,607,False
+WH-11,2024-06-01,Home Goods,480,284,False
+WH-11,2024-06-01,Industrial Parts,1430,742,False
+WH-11,2024-06-01,Perishables,1320,955,False
+WH-12,2024-06-01,Electronics,2655,1055,False
+WH-12,2024-06-01,Apparel,3205,834,False
+WH-12,2024-06-01,Home Goods,271,1207,True
+WH-12,2024-06-01,Industrial Parts,808,305,False
+WH-12,2024-06-01,Perishables,96,1152,True
+WH-01,2024-07-01,Electronics,1339,798,False
+WH-01,2024-07-01,Apparel,3216,1090,False
+WH-01,2024-07-01,Home Goods,3141,1156,False
+WH-01,2024-07-01,Industrial Parts,1960,913,False
+WH-01,2024-07-01,Perishables,613,263,False
+WH-02,2024-07-01,Electronics,1559,562,False
+WH-02,2024-07-01,Apparel,3170,880,False
+WH-02,2024-07-01,Home Goods,361,226,False
+WH-02,2024-07-01,Industrial Parts,1470,1037,False
+WH-02,2024-07-01,Perishables,138,1090,True
+WH-03,2024-07-01,Electronics,727,448,False
+WH-03,2024-07-01,Apparel,915,607,False
+WH-03,2024-07-01,Home Goods,1186,388,False
+WH-03,2024-07-01,Industrial Parts,1551,1105,False
+WH-03,2024-07-01,Perishables,1264,790,False
+WH-04,2024-07-01,Electronics,1013,407,False
+WH-04,2024-07-01,Apparel,1827,880,False
+WH-04,2024-07-01,Home Goods,941,461,False
+WH-04,2024-07-01,Industrial Parts,2567,939,False
+WH-04,2024-07-01,Perishables,2005,1016,False
+WH-05,2024-07-01,Electronics,1776,902,False
+WH-05,2024-07-01,Apparel,1616,562,False
+WH-05,2024-07-01,Home Goods,502,280,False
+WH-05,2024-07-01,Industrial Parts,1237,345,False
+WH-05,2024-07-01,Perishables,640,328,False
+WH-06,2024-07-01,Electronics,1821,504,False
+WH-06,2024-07-01,Apparel,295,277,False
+WH-06,2024-07-01,Home Goods,393,347,False
+WH-06,2024-07-01,Industrial Parts,654,196,False
+WH-06,2024-07-01,Perishables,1010,450,False
+WH-07,2024-07-01,Electronics,564,164,False
+WH-07,2024-07-01,Apparel,4296,1110,False
+WH-07,2024-07-01,Home Goods,3052,826,False
+WH-07,2024-07-01,Industrial Parts,1078,469,False
+WH-07,2024-07-01,Perishables,1864,485,False
+WH-08,2024-07-01,Electronics,268,138,False
+WH-08,2024-07-01,Apparel,1337,358,False
+WH-08,2024-07-01,Home Goods,166,699,True
+WH-08,2024-07-01,Industrial Parts,1892,1226,False
+WH-08,2024-07-01,Perishables,3856,1061,False
+WH-09,2024-07-01,Electronics,799,249,False
+WH-09,2024-07-01,Apparel,2012,827,False
+WH-09,2024-07-01,Home Goods,147,742,True
+WH-09,2024-07-01,Industrial Parts,562,335,False
+WH-09,2024-07-01,Perishables,2871,1104,False
+WH-10,2024-07-01,Electronics,969,306,False
+WH-10,2024-07-01,Apparel,4399,1225,False
+WH-10,2024-07-01,Home Goods,15,1076,True
+WH-10,2024-07-01,Industrial Parts,4671,1195,False
+WH-10,2024-07-01,Perishables,1111,305,False
+WH-11,2024-07-01,Electronics,608,499,False
+WH-11,2024-07-01,Apparel,2780,933,False
+WH-11,2024-07-01,Home Goods,1772,1022,False
+WH-11,2024-07-01,Industrial Parts,2016,951,False
+WH-11,2024-07-01,Perishables,1450,701,False
+WH-12,2024-07-01,Electronics,2655,1166,False
+WH-12,2024-07-01,Apparel,1020,322,False
+WH-12,2024-07-01,Home Goods,722,321,False
+WH-12,2024-07-01,Industrial Parts,1108,705,False
+WH-12,2024-07-01,Perishables,1089,436,False
+WH-01,2024-08-01,Electronics,2114,638,False
+WH-01,2024-08-01,Apparel,2580,1223,False
+WH-01,2024-08-01,Home Goods,2094,744,False
+WH-01,2024-08-01,Industrial Parts,158,771,True
+WH-01,2024-08-01,Perishables,1879,501,False
+WH-02,2024-08-01,Electronics,2598,1022,False
+WH-02,2024-08-01,Apparel,1192,1086,False
+WH-02,2024-08-01,Home Goods,418,129,False
+WH-02,2024-08-01,Industrial Parts,1320,1002,False
+WH-02,2024-08-01,Perishables,707,321,False
+WH-03,2024-08-01,Electronics,1275,1199,False
+WH-03,2024-08-01,Apparel,2306,648,False
+WH-03,2024-08-01,Home Goods,3808,1005,False
+WH-03,2024-08-01,Industrial Parts,660,467,False
+WH-03,2024-08-01,Perishables,2807,900,False
+WH-04,2024-08-01,Electronics,3075,857,False
+WH-04,2024-08-01,Apparel,1258,623,False
+WH-04,2024-08-01,Home Goods,424,307,False
+WH-04,2024-08-01,Industrial Parts,909,261,False
+WH-04,2024-08-01,Perishables,470,209,False
+WH-05,2024-08-01,Electronics,1451,415,False
+WH-05,2024-08-01,Apparel,2246,1131,False
+WH-05,2024-08-01,Home Goods,2168,654,False
+WH-05,2024-08-01,Industrial Parts,1331,819,False
+WH-05,2024-08-01,Perishables,1663,427,False
+WH-06,2024-08-01,Electronics,1050,728,False
+WH-06,2024-08-01,Apparel,2455,631,False
+WH-06,2024-08-01,Home Goods,4699,1226,False
+WH-06,2024-08-01,Industrial Parts,1932,1170,False
+WH-06,2024-08-01,Perishables,2160,690,False
+WH-07,2024-08-01,Electronics,2394,1035,False
+WH-07,2024-08-01,Apparel,1777,576,False
+WH-07,2024-08-01,Home Goods,697,194,False
+WH-07,2024-08-01,Industrial Parts,865,229,False
+WH-07,2024-08-01,Perishables,3062,827,False
+WH-08,2024-08-01,Electronics,1265,435,False
+WH-08,2024-08-01,Apparel,2214,600,False
+WH-08,2024-08-01,Home Goods,1648,698,False
+WH-08,2024-08-01,Industrial Parts,50,365,True
+WH-08,2024-08-01,Perishables,759,347,False
+WH-09,2024-08-01,Electronics,1797,667,False
+WH-09,2024-08-01,Apparel,526,183,False
+WH-09,2024-08-01,Home Goods,2533,980,False
+WH-09,2024-08-01,Industrial Parts,411,309,False
+WH-09,2024-08-01,Perishables,1398,596,False
+WH-10,2024-08-01,Electronics,3084,1035,False
+WH-10,2024-08-01,Apparel,896,692,False
+WH-10,2024-08-01,Home Goods,3044,900,False
+WH-10,2024-08-01,Industrial Parts,715,236,False
+WH-10,2024-08-01,Perishables,2306,795,False
+WH-11,2024-08-01,Electronics,1167,1140,False
+WH-11,2024-08-01,Apparel,1139,341,False
+WH-11,2024-08-01,Home Goods,387,275,False
+WH-11,2024-08-01,Industrial Parts,3831,971,False
+WH-11,2024-08-01,Perishables,1062,346,False
+WH-12,2024-08-01,Electronics,1295,777,False
+WH-12,2024-08-01,Apparel,52,911,True
+WH-12,2024-08-01,Home Goods,1281,358,False
+WH-12,2024-08-01,Industrial Parts,1900,1213,False
+WH-12,2024-08-01,Perishables,2136,597,False
+WH-01,2024-09-01,Electronics,2654,724,False
+WH-01,2024-09-01,Apparel,554,398,False
+WH-01,2024-09-01,Home Goods,491,255,False
+WH-01,2024-09-01,Industrial Parts,516,254,False
+WH-01,2024-09-01,Perishables,1709,600,False
+WH-02,2024-09-01,Electronics,1287,1166,False
+WH-02,2024-09-01,Apparel,163,749,True
+WH-02,2024-09-01,Home Goods,1446,1158,False
+WH-02,2024-09-01,Industrial Parts,2641,1126,False
+WH-02,2024-09-01,Perishables,372,178,False
+WH-03,2024-09-01,Electronics,4251,1215,False
+WH-03,2024-09-01,Apparel,1058,426,False
+WH-03,2024-09-01,Home Goods,2611,708,False
+WH-03,2024-09-01,Industrial Parts,2422,832,False
+WH-03,2024-09-01,Perishables,17,925,True
+WH-04,2024-09-01,Electronics,3722,1109,False
+WH-04,2024-09-01,Apparel,1156,775,False
+WH-04,2024-09-01,Home Goods,992,833,False
+WH-04,2024-09-01,Industrial Parts,965,375,False
+WH-04,2024-09-01,Perishables,1320,1237,False
+WH-05,2024-09-01,Electronics,571,541,False
+WH-05,2024-09-01,Apparel,732,431,False
+WH-05,2024-09-01,Home Goods,844,665,False
+WH-05,2024-09-01,Industrial Parts,1183,355,False
+WH-05,2024-09-01,Perishables,3447,1088,False
+WH-06,2024-09-01,Electronics,1023,301,False
+WH-06,2024-09-01,Apparel,3697,959,False
+WH-06,2024-09-01,Home Goods,1444,704,False
+WH-06,2024-09-01,Industrial Parts,556,469,False
+WH-06,2024-09-01,Perishables,1036,692,False
+WH-07,2024-09-01,Electronics,3554,1004,False
+WH-07,2024-09-01,Apparel,3443,934,False
+WH-07,2024-09-01,Home Goods,797,452,False
+WH-07,2024-09-01,Industrial Parts,1110,305,False
+WH-07,2024-09-01,Perishables,1315,378,False
+WH-08,2024-09-01,Electronics,1548,1021,False
+WH-08,2024-09-01,Apparel,767,586,False
+WH-08,2024-09-01,Home Goods,2051,1073,False
+WH-08,2024-09-01,Industrial Parts,3079,1188,False
+WH-08,2024-09-01,Perishables,141,624,True
+WH-09,2024-09-01,Electronics,703,221,False
+WH-09,2024-09-01,Apparel,258,145,False
+WH-09,2024-09-01,Home Goods,1232,542,False
+WH-09,2024-09-01,Industrial Parts,2349,1123,False
+WH-09,2024-09-01,Perishables,3464,899,False
+WH-10,2024-09-01,Electronics,1529,434,False
+WH-10,2024-09-01,Apparel,2315,926,False
+WH-10,2024-09-01,Home Goods,1616,888,False
+WH-10,2024-09-01,Industrial Parts,1022,886,False
+WH-10,2024-09-01,Perishables,2197,601,False
+WH-11,2024-09-01,Electronics,629,426,False
+WH-11,2024-09-01,Apparel,2289,944,False
+WH-11,2024-09-01,Home Goods,912,647,False
+WH-11,2024-09-01,Industrial Parts,521,342,False
+WH-11,2024-09-01,Perishables,1993,936,False
+WH-12,2024-09-01,Electronics,2552,909,False
+WH-12,2024-09-01,Apparel,1693,877,False
+WH-12,2024-09-01,Home Goods,1941,1018,False
+WH-12,2024-09-01,Industrial Parts,2093,984,False
+WH-12,2024-09-01,Perishables,3339,844,False
+WH-01,2024-10-01,Electronics,2198,694,False
+WH-01,2024-10-01,Apparel,3157,1168,False
+WH-01,2024-10-01,Home Goods,1866,1005,False
+WH-01,2024-10-01,Industrial Parts,468,127,False
+WH-01,2024-10-01,Perishables,1021,748,False
+WH-02,2024-10-01,Electronics,491,322,False
+WH-02,2024-10-01,Apparel,69,240,True
+WH-02,2024-10-01,Home Goods,2334,1022,False
+WH-02,2024-10-01,Industrial Parts,995,844,False
+WH-02,2024-10-01,Perishables,2513,633,False
+WH-03,2024-10-01,Electronics,2214,827,False
+WH-03,2024-10-01,Apparel,1658,893,False
+WH-03,2024-10-01,Home Goods,1833,1101,False
+WH-03,2024-10-01,Industrial Parts,290,138,False
+WH-03,2024-10-01,Perishables,886,326,False
+WH-04,2024-10-01,Electronics,1062,769,False
+WH-04,2024-10-01,Apparel,555,178,False
+WH-04,2024-10-01,Home Goods,2185,1106,False
+WH-04,2024-10-01,Industrial Parts,3470,1127,False
+WH-04,2024-10-01,Perishables,3,211,True
+WH-05,2024-10-01,Electronics,2690,971,False
+WH-05,2024-10-01,Apparel,785,204,False
+WH-05,2024-10-01,Home Goods,1812,1190,False
+WH-05,2024-10-01,Industrial Parts,3583,1217,False
+WH-05,2024-10-01,Perishables,2077,675,False
+WH-06,2024-10-01,Electronics,3787,1180,False
+WH-06,2024-10-01,Apparel,824,412,False
+WH-06,2024-10-01,Home Goods,2332,612,False
+WH-06,2024-10-01,Industrial Parts,2666,1080,False
+WH-06,2024-10-01,Perishables,1315,364,False
+WH-07,2024-10-01,Electronics,548,178,False
+WH-07,2024-10-01,Apparel,2426,749,False
+WH-07,2024-10-01,Home Goods,2854,867,False
+WH-07,2024-10-01,Industrial Parts,861,652,False
+WH-07,2024-10-01,Perishables,932,460,False
+WH-08,2024-10-01,Electronics,1900,606,False
+WH-08,2024-10-01,Apparel,360,155,False
+WH-08,2024-10-01,Home Goods,608,186,False
+WH-08,2024-10-01,Industrial Parts,959,852,False
+WH-08,2024-10-01,Perishables,1091,489,False
+WH-09,2024-10-01,Electronics,914,736,False
+WH-09,2024-10-01,Apparel,1542,599,False
+WH-09,2024-10-01,Home Goods,2252,1114,False
+WH-09,2024-10-01,Industrial Parts,1783,532,False
+WH-09,2024-10-01,Perishables,1015,537,False
+WH-10,2024-10-01,Electronics,3690,965,False
+WH-10,2024-10-01,Apparel,1688,711,False
+WH-10,2024-10-01,Home Goods,2453,1083,False
+WH-10,2024-10-01,Industrial Parts,4173,1075,False
+WH-10,2024-10-01,Perishables,3895,1016,False
+WH-11,2024-10-01,Electronics,808,228,False
+WH-11,2024-10-01,Apparel,940,471,False
+WH-11,2024-10-01,Home Goods,755,382,False
+WH-11,2024-10-01,Industrial Parts,1465,496,False
+WH-11,2024-10-01,Perishables,968,385,False
+WH-12,2024-10-01,Electronics,1002,268,False
+WH-12,2024-10-01,Apparel,1056,407,False
+WH-12,2024-10-01,Home Goods,917,597,False
+WH-12,2024-10-01,Industrial Parts,695,461,False
+WH-12,2024-10-01,Perishables,591,546,False
+WH-01,2024-11-01,Electronics,2070,789,False
+WH-01,2024-11-01,Apparel,770,585,False
+WH-01,2024-11-01,Home Goods,1121,643,False
+WH-01,2024-11-01,Industrial Parts,3251,1027,False
+WH-01,2024-11-01,Perishables,1614,990,False
+WH-02,2024-11-01,Electronics,2100,1056,False
+WH-02,2024-11-01,Apparel,100,466,True
+WH-02,2024-11-01,Home Goods,1454,1009,False
+WH-02,2024-11-01,Industrial Parts,532,268,False
+WH-02,2024-11-01,Perishables,245,162,False
+WH-03,2024-11-01,Electronics,1063,781,False
+WH-03,2024-11-01,Apparel,250,216,False
+WH-03,2024-11-01,Home Goods,3277,1092,False
+WH-03,2024-11-01,Industrial Parts,2677,922,False
+WH-03,2024-11-01,Perishables,1594,1038,False
+WH-04,2024-11-01,Electronics,2767,980,False
+WH-04,2024-11-01,Apparel,3857,1166,False
+WH-04,2024-11-01,Home Goods,1629,676,False
+WH-04,2024-11-01,Industrial Parts,1839,660,False
+WH-04,2024-11-01,Perishables,2455,1206,False
+WH-05,2024-11-01,Electronics,1855,1031,False
+WH-05,2024-11-01,Apparel,984,652,False
+WH-05,2024-11-01,Home Goods,552,466,False
+WH-05,2024-11-01,Industrial Parts,612,206,False
+WH-05,2024-11-01,Perishables,709,214,False
+WH-06,2024-11-01,Electronics,424,363,False
+WH-06,2024-11-01,Apparel,2285,778,False
+WH-06,2024-11-01,Home Goods,2521,799,False
+WH-06,2024-11-01,Industrial Parts,1274,1193,False
+WH-06,2024-11-01,Perishables,962,256,False
+WH-07,2024-11-01,Electronics,2092,1103,False
+WH-07,2024-11-01,Apparel,1542,609,False
+WH-07,2024-11-01,Home Goods,2895,802,False
+WH-07,2024-11-01,Industrial Parts,1041,820,False
+WH-07,2024-11-01,Perishables,2286,1119,False
+WH-08,2024-11-01,Electronics,1570,783,False
+WH-08,2024-11-01,Apparel,985,593,False
+WH-08,2024-11-01,Home Goods,489,151,False
+WH-08,2024-11-01,Industrial Parts,1703,1031,False
+WH-08,2024-11-01,Perishables,261,151,False
+WH-09,2024-11-01,Electronics,2264,617,False
+WH-09,2024-11-01,Apparel,1778,949,False
+WH-09,2024-11-01,Home Goods,1237,346,False
+WH-09,2024-11-01,Industrial Parts,81,754,True
+WH-09,2024-11-01,Perishables,1798,1120,False
+WH-10,2024-11-01,Electronics,1167,862,False
+WH-10,2024-11-01,Apparel,2085,1242,False
+WH-10,2024-11-01,Home Goods,2163,931,False
+WH-10,2024-11-01,Industrial Parts,738,315,False
+WH-10,2024-11-01,Perishables,385,135,False
+WH-11,2024-11-01,Electronics,1636,1172,False
+WH-11,2024-11-01,Apparel,1221,1161,False
+WH-11,2024-11-01,Home Goods,574,278,False
+WH-11,2024-11-01,Industrial Parts,942,286,False
+WH-11,2024-11-01,Perishables,120,970,True
+WH-12,2024-11-01,Electronics,139,1081,True
+WH-12,2024-11-01,Apparel,884,483,False
+WH-12,2024-11-01,Home Goods,1018,972,False
+WH-12,2024-11-01,Industrial Parts,2872,770,False
+WH-12,2024-11-01,Perishables,1873,656,False
+WH-01,2024-12-01,Electronics,1183,1132,False
+WH-01,2024-12-01,Apparel,1611,433,False
+WH-01,2024-12-01,Home Goods,691,183,False
+WH-01,2024-12-01,Industrial Parts,2621,1114,False
+WH-01,2024-12-01,Perishables,2668,1216,False
+WH-02,2024-12-01,Electronics,580,384,False
+WH-02,2024-12-01,Apparel,2949,1235,False
+WH-02,2024-12-01,Home Goods,1463,672,False
+WH-02,2024-12-01,Industrial Parts,439,323,False
+WH-02,2024-12-01,Perishables,2774,1146,False
+WH-03,2024-12-01,Electronics,1065,484,False
+WH-03,2024-12-01,Apparel,96,573,True
+WH-03,2024-12-01,Home Goods,1179,697,False
+WH-03,2024-12-01,Industrial Parts,2440,1079,False
+WH-03,2024-12-01,Perishables,1050,855,False
+WH-04,2024-12-01,Electronics,2562,879,False
+WH-04,2024-12-01,Apparel,402,267,False
+WH-04,2024-12-01,Home Goods,39,230,True
+WH-04,2024-12-01,Industrial Parts,1990,740,False
+WH-04,2024-12-01,Perishables,92,720,True
+WH-05,2024-12-01,Electronics,2573,940,False
+WH-05,2024-12-01,Apparel,1159,1127,False
+WH-05,2024-12-01,Home Goods,1767,593,False
+WH-05,2024-12-01,Industrial Parts,1782,569,False
+WH-05,2024-12-01,Perishables,1253,516,False
+WH-06,2024-12-01,Electronics,438,232,False
+WH-06,2024-12-01,Apparel,495,265,False
+WH-06,2024-12-01,Home Goods,1585,458,False
+WH-06,2024-12-01,Industrial Parts,672,261,False
+WH-06,2024-12-01,Perishables,133,1106,True
+WH-07,2024-12-01,Electronics,1017,359,False
+WH-07,2024-12-01,Apparel,1698,1078,False
+WH-07,2024-12-01,Home Goods,3322,833,False
+WH-07,2024-12-01,Industrial Parts,2560,685,False
+WH-07,2024-12-01,Perishables,1991,516,False
+WH-08,2024-12-01,Electronics,339,301,False
+WH-08,2024-12-01,Apparel,1431,410,False
+WH-08,2024-12-01,Home Goods,918,874,False
+WH-08,2024-12-01,Industrial Parts,2184,823,False
+WH-08,2024-12-01,Perishables,32,263,True
+WH-09,2024-12-01,Electronics,901,516,False
+WH-09,2024-12-01,Apparel,67,329,True
+WH-09,2024-12-01,Home Goods,216,190,False
+WH-09,2024-12-01,Industrial Parts,1688,591,False
+WH-09,2024-12-01,Perishables,277,1096,True
+WH-10,2024-12-01,Electronics,1604,434,False
+WH-10,2024-12-01,Apparel,492,484,False
+WH-10,2024-12-01,Home Goods,1208,1180,False
+WH-10,2024-12-01,Industrial Parts,3157,846,False
+WH-10,2024-12-01,Perishables,948,374,False
+WH-11,2024-12-01,Electronics,1634,864,False
+WH-11,2024-12-01,Apparel,3321,858,False
+WH-11,2024-12-01,Home Goods,2570,1049,False
+WH-11,2024-12-01,Industrial Parts,431,181,False
+WH-11,2024-12-01,Perishables,33,387,True
+WH-12,2024-12-01,Electronics,2124,1036,False
+WH-12,2024-12-01,Apparel,1251,369,False
+WH-12,2024-12-01,Home Goods,3721,1153,False
+WH-12,2024-12-01,Industrial Parts,3679,1064,False
+WH-12,2024-12-01,Perishables,253,1086,True
+WH-01,2025-01-01,Electronics,444,182,False
+WH-01,2025-01-01,Apparel,1398,871,False
+WH-01,2025-01-01,Home Goods,531,324,False
+WH-01,2025-01-01,Industrial Parts,856,231,False
+WH-01,2025-01-01,Perishables,665,500,False
+WH-02,2025-01-01,Electronics,2547,744,False
+WH-02,2025-01-01,Apparel,1502,1212,False
+WH-02,2025-01-01,Home Goods,820,337,False
+WH-02,2025-01-01,Industrial Parts,3245,895,False
+WH-02,2025-01-01,Perishables,1622,473,False
+WH-03,2025-01-01,Electronics,23,332,True
+WH-03,2025-01-01,Apparel,844,414,False
+WH-03,2025-01-01,Home Goods,2327,709,False
+WH-03,2025-01-01,Industrial Parts,1862,725,False
+WH-03,2025-01-01,Perishables,4043,1046,False
+WH-04,2025-01-01,Electronics,4358,1097,False
+WH-04,2025-01-01,Apparel,2396,930,False
+WH-04,2025-01-01,Home Goods,446,357,False
+WH-04,2025-01-01,Industrial Parts,3078,1035,False
+WH-04,2025-01-01,Perishables,1315,440,False
+WH-05,2025-01-01,Electronics,696,266,False
+WH-05,2025-01-01,Apparel,1732,445,False
+WH-05,2025-01-01,Home Goods,1677,627,False
+WH-05,2025-01-01,Industrial Parts,1412,838,False
+WH-05,2025-01-01,Perishables,2005,967,False
+WH-06,2025-01-01,Electronics,1747,935,False
+WH-06,2025-01-01,Apparel,2834,986,False
+WH-06,2025-01-01,Home Goods,1850,598,False
+WH-06,2025-01-01,Industrial Parts,2868,986,False
+WH-06,2025-01-01,Perishables,60,606,True
+WH-07,2025-01-01,Electronics,412,245,False
+WH-07,2025-01-01,Apparel,667,208,False
+WH-07,2025-01-01,Home Goods,2914,809,False
+WH-07,2025-01-01,Industrial Parts,2243,1148,False
+WH-07,2025-01-01,Perishables,1211,1175,False
+WH-08,2025-01-01,Electronics,1622,679,False
+WH-08,2025-01-01,Apparel,304,291,False
+WH-08,2025-01-01,Home Goods,2617,882,False
+WH-08,2025-01-01,Industrial Parts,2122,1223,False
+WH-08,2025-01-01,Perishables,41,147,True
+WH-09,2025-01-01,Electronics,1785,841,False
+WH-09,2025-01-01,Apparel,313,1053,True
+WH-09,2025-01-01,Home Goods,514,443,False
+WH-09,2025-01-01,Industrial Parts,2905,954,False
+WH-09,2025-01-01,Perishables,2644,947,False
+WH-10,2025-01-01,Electronics,1306,364,False
+WH-10,2025-01-01,Apparel,2594,724,False
+WH-10,2025-01-01,Home Goods,1832,525,False
+WH-10,2025-01-01,Industrial Parts,2401,610,False
+WH-10,2025-01-01,Perishables,1137,482,False
+WH-11,2025-01-01,Electronics,347,288,False
+WH-11,2025-01-01,Apparel,1371,1030,False
+WH-11,2025-01-01,Home Goods,2189,860,False
+WH-11,2025-01-01,Industrial Parts,341,152,False
+WH-11,2025-01-01,Perishables,630,414,False
+WH-12,2025-01-01,Electronics,2379,627,False
+WH-12,2025-01-01,Apparel,813,462,False
+WH-12,2025-01-01,Home Goods,4697,1218,False
+WH-12,2025-01-01,Industrial Parts,1739,1216,False
+WH-12,2025-01-01,Perishables,645,309,False
+WH-01,2025-02-01,Electronics,3507,1084,False
+WH-01,2025-02-01,Apparel,1198,663,False
+WH-01,2025-02-01,Home Goods,617,491,False
+WH-01,2025-02-01,Industrial Parts,1209,640,False
+WH-01,2025-02-01,Perishables,147,794,True
+WH-02,2025-02-01,Electronics,2317,947,False
+WH-02,2025-02-01,Apparel,2188,915,False
+WH-02,2025-02-01,Home Goods,4622,1215,False
+WH-02,2025-02-01,Industrial Parts,882,644,False
+WH-02,2025-02-01,Perishables,550,172,False
+WH-03,2025-02-01,Electronics,1338,362,False
+WH-03,2025-02-01,Apparel,1177,535,False
+WH-03,2025-02-01,Home Goods,795,469,False
+WH-03,2025-02-01,Industrial Parts,3685,1077,False
+WH-03,2025-02-01,Perishables,3220,1086,False
+WH-04,2025-02-01,Electronics,1781,446,False
+WH-04,2025-02-01,Apparel,2141,782,False
+WH-04,2025-02-01,Home Goods,553,177,False
+WH-04,2025-02-01,Industrial Parts,2663,710,False
+WH-04,2025-02-01,Perishables,1807,606,False
+WH-05,2025-02-01,Electronics,2675,788,False
+WH-05,2025-02-01,Apparel,1181,644,False
+WH-05,2025-02-01,Home Goods,3174,1052,False
+WH-05,2025-02-01,Industrial Parts,1170,856,False
+WH-05,2025-02-01,Perishables,1837,743,False
+WH-06,2025-02-01,Electronics,1876,1156,False
+WH-06,2025-02-01,Apparel,1617,1069,False
+WH-06,2025-02-01,Home Goods,3194,1122,False
+WH-06,2025-02-01,Industrial Parts,877,723,False
+WH-06,2025-02-01,Perishables,21,156,True
+WH-07,2025-02-01,Electronics,1267,447,False
+WH-07,2025-02-01,Apparel,549,338,False
+WH-07,2025-02-01,Home Goods,2901,949,False
+WH-07,2025-02-01,Industrial Parts,4354,1126,False
+WH-07,2025-02-01,Perishables,869,854,False
+WH-08,2025-02-01,Electronics,686,226,False
+WH-08,2025-02-01,Apparel,532,185,False
+WH-08,2025-02-01,Home Goods,860,266,False
+WH-08,2025-02-01,Industrial Parts,1428,428,False
+WH-08,2025-02-01,Perishables,1372,1057,False
+WH-09,2025-02-01,Electronics,2449,1054,False
+WH-09,2025-02-01,Apparel,963,296,False
+WH-09,2025-02-01,Home Goods,817,346,False
+WH-09,2025-02-01,Industrial Parts,443,178,False
+WH-09,2025-02-01,Perishables,377,222,False
+WH-10,2025-02-01,Electronics,930,827,False
+WH-10,2025-02-01,Apparel,1506,1005,False
+WH-10,2025-02-01,Home Goods,1364,573,False
+WH-10,2025-02-01,Industrial Parts,2846,745,False
+WH-10,2025-02-01,Perishables,3574,1049,False
+WH-11,2025-02-01,Electronics,1336,645,False
+WH-11,2025-02-01,Apparel,501,142,False
+WH-11,2025-02-01,Home Goods,379,282,False
+WH-11,2025-02-01,Industrial Parts,2941,1224,False
+WH-11,2025-02-01,Perishables,38,879,True
+WH-12,2025-02-01,Electronics,1111,706,False
+WH-12,2025-02-01,Apparel,1860,645,False
+WH-12,2025-02-01,Home Goods,4190,1089,False
+WH-12,2025-02-01,Industrial Parts,1037,477,False
+WH-12,2025-02-01,Perishables,819,599,False
+WH-01,2025-03-01,Electronics,744,231,False
+WH-01,2025-03-01,Apparel,374,193,False
+WH-01,2025-03-01,Home Goods,2755,1182,False
+WH-01,2025-03-01,Industrial Parts,2460,927,False
+WH-01,2025-03-01,Perishables,1401,774,False
+WH-02,2025-03-01,Electronics,1457,436,False
+WH-02,2025-03-01,Apparel,2178,912,False
+WH-02,2025-03-01,Home Goods,2773,1218,False
+WH-02,2025-03-01,Industrial Parts,3875,1119,False
+WH-02,2025-03-01,Perishables,2125,841,False
+WH-03,2025-03-01,Electronics,1047,314,False
+WH-03,2025-03-01,Apparel,39,971,True
+WH-03,2025-03-01,Home Goods,2254,609,False
+WH-03,2025-03-01,Industrial Parts,1430,653,False
+WH-03,2025-03-01,Perishables,1785,739,False
+WH-04,2025-03-01,Electronics,1836,752,False
+WH-04,2025-03-01,Apparel,1219,368,False
+WH-04,2025-03-01,Home Goods,1072,276,False
+WH-04,2025-03-01,Industrial Parts,1340,672,False
+WH-04,2025-03-01,Perishables,241,170,False
+WH-05,2025-03-01,Electronics,3269,1019,False
+WH-05,2025-03-01,Apparel,3200,1080,False
+WH-05,2025-03-01,Home Goods,1036,369,False
+WH-05,2025-03-01,Industrial Parts,680,333,False
+WH-05,2025-03-01,Perishables,1657,910,False
+WH-06,2025-03-01,Electronics,620,484,False
+WH-06,2025-03-01,Apparel,812,693,False
+WH-06,2025-03-01,Home Goods,2927,833,False
+WH-06,2025-03-01,Industrial Parts,1907,938,False
+WH-06,2025-03-01,Perishables,356,312,False
+WH-07,2025-03-01,Electronics,2456,844,False
+WH-07,2025-03-01,Apparel,970,365,False
+WH-07,2025-03-01,Home Goods,1876,802,False
+WH-07,2025-03-01,Industrial Parts,2194,577,False
+WH-07,2025-03-01,Perishables,1579,743,False
+WH-08,2025-03-01,Electronics,1220,616,False
+WH-08,2025-03-01,Apparel,1252,643,False
+WH-08,2025-03-01,Home Goods,293,173,False
+WH-08,2025-03-01,Industrial Parts,1347,732,False
+WH-08,2025-03-01,Perishables,927,248,False
+WH-09,2025-03-01,Electronics,927,496,False
+WH-09,2025-03-01,Apparel,2653,869,False
+WH-09,2025-03-01,Home Goods,3279,1140,False
+WH-09,2025-03-01,Industrial Parts,698,482,False
+WH-09,2025-03-01,Perishables,491,163,False
+WH-10,2025-03-01,Electronics,477,169,False
+WH-10,2025-03-01,Apparel,1799,1188,False
+WH-10,2025-03-01,Home Goods,656,173,False
+WH-10,2025-03-01,Industrial Parts,2338,670,False
+WH-10,2025-03-01,Perishables,1214,520,False
+WH-11,2025-03-01,Electronics,1912,812,False
+WH-11,2025-03-01,Apparel,993,324,False
+WH-11,2025-03-01,Home Goods,4715,1195,False
+WH-11,2025-03-01,Industrial Parts,1337,666,False
+WH-11,2025-03-01,Perishables,184,173,False
+WH-12,2025-03-01,Electronics,1541,1225,False
+WH-12,2025-03-01,Apparel,1240,318,False
+WH-12,2025-03-01,Home Goods,533,263,False
+WH-12,2025-03-01,Industrial Parts,631,237,False
+WH-12,2025-03-01,Perishables,476,366,False
+WH-01,2025-04-01,Electronics,3268,1114,False
+WH-01,2025-04-01,Apparel,1360,691,False
+WH-01,2025-04-01,Home Goods,955,272,False
+WH-01,2025-04-01,Industrial Parts,780,395,False
+WH-01,2025-04-01,Perishables,1448,609,False
+WH-02,2025-04-01,Electronics,1369,408,False
+WH-02,2025-04-01,Apparel,2103,917,False
+WH-02,2025-04-01,Home Goods,1577,505,False
+WH-02,2025-04-01,Industrial Parts,1678,477,False
+WH-02,2025-04-01,Perishables,1619,538,False
+WH-03,2025-04-01,Electronics,833,254,False
+WH-03,2025-04-01,Apparel,1200,409,False
+WH-03,2025-04-01,Home Goods,2018,1064,False
+WH-03,2025-04-01,Industrial Parts,594,288,False
+WH-03,2025-04-01,Perishables,12,1167,True
+WH-04,2025-04-01,Electronics,1193,794,False
+WH-04,2025-04-01,Apparel,1265,466,False
+WH-04,2025-04-01,Home Goods,1862,804,False
+WH-04,2025-04-01,Industrial Parts,3729,1069,False
+WH-04,2025-04-01,Perishables,3294,1117,False
+WH-05,2025-04-01,Electronics,3360,1087,False
+WH-05,2025-04-01,Apparel,1337,638,False
+WH-05,2025-04-01,Home Goods,2443,702,False
+WH-05,2025-04-01,Industrial Parts,1506,704,False
+WH-05,2025-04-01,Perishables,1566,1026,False
+WH-06,2025-04-01,Electronics,2493,1142,False
+WH-06,2025-04-01,Apparel,867,850,False
+WH-06,2025-04-01,Home Goods,2354,1167,False
+WH-06,2025-04-01,Industrial Parts,1513,402,False
+WH-06,2025-04-01,Perishables,440,174,False
+WH-07,2025-04-01,Electronics,1340,534,False
+WH-07,2025-04-01,Apparel,2230,566,False
+WH-07,2025-04-01,Home Goods,416,410,False
+WH-07,2025-04-01,Industrial Parts,1207,614,False
+WH-07,2025-04-01,Perishables,710,705,False
+WH-08,2025-04-01,Electronics,1751,777,False
+WH-08,2025-04-01,Apparel,1238,377,False
+WH-08,2025-04-01,Home Goods,371,234,False
+WH-08,2025-04-01,Industrial Parts,3451,867,False
+WH-08,2025-04-01,Perishables,1065,865,False
+WH-09,2025-04-01,Electronics,1823,988,False
+WH-09,2025-04-01,Apparel,2397,669,False
+WH-09,2025-04-01,Home Goods,1477,550,False
+WH-09,2025-04-01,Industrial Parts,3095,800,False
+WH-09,2025-04-01,Perishables,2027,696,False
+WH-10,2025-04-01,Electronics,1615,953,False
+WH-10,2025-04-01,Apparel,1039,353,False
+WH-10,2025-04-01,Home Goods,1921,540,False
+WH-10,2025-04-01,Industrial Parts,2045,821,False
+WH-10,2025-04-01,Perishables,1163,732,False
+WH-11,2025-04-01,Electronics,1209,456,False
+WH-11,2025-04-01,Apparel,4534,1136,False
+WH-11,2025-04-01,Home Goods,1506,826,False
+WH-11,2025-04-01,Industrial Parts,370,273,False
+WH-11,2025-04-01,Perishables,1339,353,False
+WH-12,2025-04-01,Electronics,887,293,False
+WH-12,2025-04-01,Apparel,3363,969,False
+WH-12,2025-04-01,Home Goods,782,323,False
+WH-12,2025-04-01,Industrial Parts,954,547,False
+WH-12,2025-04-01,Perishables,1486,441,False
+WH-01,2025-05-01,Electronics,1855,476,False
+WH-01,2025-05-01,Apparel,2279,650,False
+WH-01,2025-05-01,Home Goods,1893,764,False
+WH-01,2025-05-01,Industrial Parts,2597,1221,False
+WH-01,2025-05-01,Perishables,62,435,True
+WH-02,2025-05-01,Electronics,1441,1247,False
+WH-02,2025-05-01,Apparel,1748,539,False
+WH-02,2025-05-01,Home Goods,766,241,False
+WH-02,2025-05-01,Industrial Parts,1622,493,False
+WH-02,2025-05-01,Perishables,1276,853,False
+WH-03,2025-05-01,Electronics,2767,787,False
+WH-03,2025-05-01,Apparel,1340,999,False
+WH-03,2025-05-01,Home Goods,799,715,False
+WH-03,2025-05-01,Industrial Parts,2160,580,False
+WH-03,2025-05-01,Perishables,829,229,False
+WH-04,2025-05-01,Electronics,3486,1049,False
+WH-04,2025-05-01,Apparel,565,359,False
+WH-04,2025-05-01,Home Goods,2241,576,False
+WH-04,2025-05-01,Industrial Parts,2259,1149,False
+WH-04,2025-05-01,Perishables,1575,853,False
+WH-05,2025-05-01,Electronics,1163,491,False
+WH-05,2025-05-01,Apparel,1737,544,False
+WH-05,2025-05-01,Home Goods,3428,906,False
+WH-05,2025-05-01,Industrial Parts,3167,991,False
+WH-05,2025-05-01,Perishables,3112,1193,False
+WH-06,2025-05-01,Electronics,1254,571,False
+WH-06,2025-05-01,Apparel,4073,1176,False
+WH-06,2025-05-01,Home Goods,1413,431,False
+WH-06,2025-05-01,Industrial Parts,2205,1139,False
+WH-06,2025-05-01,Perishables,777,729,False
+WH-07,2025-05-01,Electronics,518,388,False
+WH-07,2025-05-01,Apparel,99,785,True
+WH-07,2025-05-01,Home Goods,1772,518,False
+WH-07,2025-05-01,Industrial Parts,4003,1222,False
+WH-07,2025-05-01,Perishables,1271,787,False
+WH-08,2025-05-01,Electronics,1248,1163,False
+WH-08,2025-05-01,Apparel,2555,1141,False
+WH-08,2025-05-01,Home Goods,1506,587,False
+WH-08,2025-05-01,Industrial Parts,1646,1058,False
+WH-08,2025-05-01,Perishables,699,497,False
+WH-09,2025-05-01,Electronics,2386,864,False
+WH-09,2025-05-01,Apparel,8,1156,True
+WH-09,2025-05-01,Home Goods,685,527,False
+WH-09,2025-05-01,Industrial Parts,3498,1078,False
+WH-09,2025-05-01,Perishables,3561,982,False
+WH-10,2025-05-01,Electronics,1244,744,False
+WH-10,2025-05-01,Apparel,1332,457,False
+WH-10,2025-05-01,Home Goods,859,681,False
+WH-10,2025-05-01,Industrial Parts,1798,1106,False
+WH-10,2025-05-01,Perishables,1056,663,False
+WH-11,2025-05-01,Electronics,1686,540,False
+WH-11,2025-05-01,Apparel,784,498,False
+WH-11,2025-05-01,Home Goods,2129,759,False
+WH-11,2025-05-01,Industrial Parts,1971,510,False
+WH-11,2025-05-01,Perishables,429,324,False
+WH-12,2025-05-01,Electronics,1674,671,False
+WH-12,2025-05-01,Apparel,2715,794,False
+WH-12,2025-05-01,Home Goods,3009,853,False
+WH-12,2025-05-01,Industrial Parts,199,154,False
+WH-12,2025-05-01,Perishables,1349,618,False
+WH-01,2025-06-01,Electronics,1980,873,False
+WH-01,2025-06-01,Apparel,497,449,False
+WH-01,2025-06-01,Home Goods,1417,749,False
+WH-01,2025-06-01,Industrial Parts,1813,487,False
+WH-01,2025-06-01,Perishables,927,318,False
+WH-02,2025-06-01,Electronics,90,373,True
+WH-02,2025-06-01,Apparel,2187,1222,False
+WH-02,2025-06-01,Home Goods,3969,1066,False
+WH-02,2025-06-01,Industrial Parts,1533,392,False
+WH-02,2025-06-01,Perishables,12,158,True
+WH-03,2025-06-01,Electronics,1768,858,False
+WH-03,2025-06-01,Apparel,1934,1076,False
+WH-03,2025-06-01,Home Goods,132,534,True
+WH-03,2025-06-01,Industrial Parts,1411,898,False
+WH-03,2025-06-01,Perishables,582,169,False
+WH-04,2025-06-01,Electronics,2271,651,False
+WH-04,2025-06-01,Apparel,950,672,False
+WH-04,2025-06-01,Home Goods,951,286,False
+WH-04,2025-06-01,Industrial Parts,1990,564,False
+WH-04,2025-06-01,Perishables,1599,827,False
+WH-05,2025-06-01,Electronics,1050,720,False
+WH-05,2025-06-01,Apparel,755,219,False
+WH-05,2025-06-01,Home Goods,1634,661,False
+WH-05,2025-06-01,Industrial Parts,908,319,False
+WH-05,2025-06-01,Perishables,1438,869,False
+WH-06,2025-06-01,Electronics,1173,317,False
+WH-06,2025-06-01,Apparel,1125,427,False
+WH-06,2025-06-01,Home Goods,861,667,False
+WH-06,2025-06-01,Industrial Parts,2364,689,False
+WH-06,2025-06-01,Perishables,815,218,False
+WH-07,2025-06-01,Electronics,542,168,False
+WH-07,2025-06-01,Apparel,2389,1119,False
+WH-07,2025-06-01,Home Goods,183,791,True
+WH-07,2025-06-01,Industrial Parts,81,504,True
+WH-07,2025-06-01,Perishables,3794,1049,False
+WH-08,2025-06-01,Electronics,2315,592,False
+WH-08,2025-06-01,Apparel,1103,408,False
+WH-08,2025-06-01,Home Goods,535,400,False
+WH-08,2025-06-01,Industrial Parts,731,566,False
+WH-08,2025-06-01,Perishables,3485,1009,False
+WH-09,2025-06-01,Electronics,957,781,False
+WH-09,2025-06-01,Apparel,495,146,False
+WH-09,2025-06-01,Home Goods,384,169,False
+WH-09,2025-06-01,Industrial Parts,3112,1248,False
+WH-09,2025-06-01,Perishables,626,314,False
+WH-10,2025-06-01,Electronics,582,178,False
+WH-10,2025-06-01,Apparel,693,249,False
+WH-10,2025-06-01,Home Goods,960,753,False
+WH-10,2025-06-01,Industrial Parts,979,792,False
+WH-10,2025-06-01,Perishables,3114,932,False
+WH-11,2025-06-01,Electronics,364,167,False
+WH-11,2025-06-01,Apparel,1564,946,False
+WH-11,2025-06-01,Home Goods,3467,1162,False
+WH-11,2025-06-01,Industrial Parts,1952,569,False
+WH-11,2025-06-01,Perishables,1505,1095,False
+WH-12,2025-06-01,Electronics,1690,618,False
+WH-12,2025-06-01,Apparel,2125,641,False
+WH-12,2025-06-01,Home Goods,643,511,False
+WH-12,2025-06-01,Industrial Parts,1535,831,False
+WH-12,2025-06-01,Perishables,1332,642,False
+WH-01,2025-07-01,Electronics,916,231,False
+WH-01,2025-07-01,Apparel,2920,1067,False
+WH-01,2025-07-01,Home Goods,2358,713,False
+WH-01,2025-07-01,Industrial Parts,1118,993,False
+WH-01,2025-07-01,Perishables,9,505,True
+WH-02,2025-07-01,Electronics,4,195,True
+WH-02,2025-07-01,Apparel,1485,406,False
+WH-02,2025-07-01,Home Goods,3334,839,False
+WH-02,2025-07-01,Industrial Parts,1607,769,False
+WH-02,2025-07-01,Perishables,3960,1061,False
+WH-03,2025-07-01,Electronics,320,246,False
+WH-03,2025-07-01,Apparel,2951,898,False
+WH-03,2025-07-01,Home Goods,380,346,False
+WH-03,2025-07-01,Industrial Parts,3793,969,False
+WH-03,2025-07-01,Perishables,386,153,False
+WH-04,2025-07-01,Electronics,572,312,False
+WH-04,2025-07-01,Apparel,1435,800,False
+WH-04,2025-07-01,Home Goods,1651,609,False
+WH-04,2025-07-01,Industrial Parts,1453,969,False
+WH-04,2025-07-01,Perishables,3408,1134,False
+WH-05,2025-07-01,Electronics,758,732,False
+WH-05,2025-07-01,Apparel,2608,939,False
+WH-05,2025-07-01,Home Goods,962,370,False
+WH-05,2025-07-01,Industrial Parts,2434,1013,False
+WH-05,2025-07-01,Perishables,1249,350,False
+WH-06,2025-07-01,Electronics,588,316,False
+WH-06,2025-07-01,Apparel,810,342,False
+WH-06,2025-07-01,Home Goods,1682,619,False
+WH-06,2025-07-01,Industrial Parts,819,439,False
+WH-06,2025-07-01,Perishables,1224,488,False
+WH-07,2025-07-01,Electronics,616,434,False
+WH-07,2025-07-01,Apparel,1627,1012,False
+WH-07,2025-07-01,Home Goods,1042,368,False
+WH-07,2025-07-01,Industrial Parts,1863,509,False
+WH-07,2025-07-01,Perishables,2435,1234,False
+WH-08,2025-07-01,Electronics,1792,884,False
+WH-08,2025-07-01,Apparel,2959,974,False
+WH-08,2025-07-01,Home Goods,1797,477,False
+WH-08,2025-07-01,Industrial Parts,2393,740,False
+WH-08,2025-07-01,Perishables,1692,737,False
+WH-09,2025-07-01,Electronics,2411,989,False
+WH-09,2025-07-01,Apparel,744,445,False
+WH-09,2025-07-01,Home Goods,1665,1086,False
+WH-09,2025-07-01,Industrial Parts,1908,514,False
+WH-09,2025-07-01,Perishables,1466,1177,False
+WH-10,2025-07-01,Electronics,1274,990,False
+WH-10,2025-07-01,Apparel,1733,782,False
+WH-10,2025-07-01,Home Goods,1758,1077,False
+WH-10,2025-07-01,Industrial Parts,3993,1018,False
+WH-10,2025-07-01,Perishables,1421,460,False
+WH-11,2025-07-01,Electronics,271,928,True
+WH-11,2025-07-01,Apparel,4072,1103,False
+WH-11,2025-07-01,Home Goods,290,203,False
+WH-11,2025-07-01,Industrial Parts,2325,684,False
+WH-11,2025-07-01,Perishables,813,222,False
+WH-12,2025-07-01,Electronics,2069,538,False
+WH-12,2025-07-01,Apparel,2793,843,False
+WH-12,2025-07-01,Home Goods,1514,548,False
+WH-12,2025-07-01,Industrial Parts,509,309,False
+WH-12,2025-07-01,Perishables,1238,367,False
+WH-01,2025-08-01,Electronics,1286,695,False
+WH-01,2025-08-01,Apparel,1885,582,False
+WH-01,2025-08-01,Home Goods,1109,455,False
+WH-01,2025-08-01,Industrial Parts,457,154,False
+WH-01,2025-08-01,Perishables,4233,1162,False
+WH-02,2025-08-01,Electronics,576,444,False
+WH-02,2025-08-01,Apparel,2212,720,False
+WH-02,2025-08-01,Home Goods,3583,994,False
+WH-02,2025-08-01,Industrial Parts,2492,1028,False
+WH-02,2025-08-01,Perishables,2372,1233,False
+WH-03,2025-08-01,Electronics,524,363,False
+WH-03,2025-08-01,Apparel,1753,702,False
+WH-03,2025-08-01,Home Goods,858,607,False
+WH-03,2025-08-01,Industrial Parts,2302,1202,False
+WH-03,2025-08-01,Perishables,1488,764,False
+WH-04,2025-08-01,Electronics,1026,543,False
+WH-04,2025-08-01,Apparel,1281,939,False
+WH-04,2025-08-01,Home Goods,2453,756,False
+WH-04,2025-08-01,Industrial Parts,1732,863,False
+WH-04,2025-08-01,Perishables,377,268,False
+WH-05,2025-08-01,Electronics,1101,317,False
+WH-05,2025-08-01,Apparel,934,477,False
+WH-05,2025-08-01,Home Goods,1081,747,False
+WH-05,2025-08-01,Industrial Parts,2117,578,False
+WH-05,2025-08-01,Perishables,1620,635,False
+WH-06,2025-08-01,Electronics,1602,601,False
+WH-06,2025-08-01,Apparel,2050,974,False
+WH-06,2025-08-01,Home Goods,3550,1148,False
+WH-06,2025-08-01,Industrial Parts,496,359,False
+WH-06,2025-08-01,Perishables,3483,1137,False
+WH-07,2025-08-01,Electronics,1957,529,False
+WH-07,2025-08-01,Apparel,5,216,True
+WH-07,2025-08-01,Home Goods,993,477,False
+WH-07,2025-08-01,Industrial Parts,886,255,False
+WH-07,2025-08-01,Perishables,2412,629,False
+WH-08,2025-08-01,Electronics,535,396,False
+WH-08,2025-08-01,Apparel,558,143,False
+WH-08,2025-08-01,Home Goods,3476,959,False
+WH-08,2025-08-01,Industrial Parts,293,215,False
+WH-08,2025-08-01,Perishables,1423,929,False
+WH-09,2025-08-01,Electronics,1306,1111,False
+WH-09,2025-08-01,Apparel,216,203,False
+WH-09,2025-08-01,Home Goods,804,503,False
+WH-09,2025-08-01,Industrial Parts,646,167,False
+WH-09,2025-08-01,Perishables,1280,410,False
+WH-10,2025-08-01,Electronics,435,235,False
+WH-10,2025-08-01,Apparel,275,146,False
+WH-10,2025-08-01,Home Goods,1379,632,False
+WH-10,2025-08-01,Industrial Parts,2125,1031,False
+WH-10,2025-08-01,Perishables,3714,1076,False
+WH-11,2025-08-01,Electronics,528,171,False
+WH-11,2025-08-01,Apparel,360,325,False
+WH-11,2025-08-01,Home Goods,2325,1173,False
+WH-11,2025-08-01,Industrial Parts,1260,619,False
+WH-11,2025-08-01,Perishables,521,158,False
+WH-12,2025-08-01,Electronics,1120,1009,False
+WH-12,2025-08-01,Apparel,324,193,False
+WH-12,2025-08-01,Home Goods,778,551,False
+WH-12,2025-08-01,Industrial Parts,853,504,False
+WH-12,2025-08-01,Perishables,1046,548,False
+WH-01,2025-09-01,Electronics,670,601,False
+WH-01,2025-09-01,Apparel,110,417,True
+WH-01,2025-09-01,Home Goods,1555,625,False
+WH-01,2025-09-01,Industrial Parts,1929,959,False
+WH-01,2025-09-01,Perishables,197,155,False
+WH-02,2025-09-01,Electronics,523,458,False
+WH-02,2025-09-01,Apparel,2210,884,False
+WH-02,2025-09-01,Home Goods,2668,770,False
+WH-02,2025-09-01,Industrial Parts,1326,459,False
+WH-02,2025-09-01,Perishables,1641,965,False
+WH-03,2025-09-01,Electronics,489,211,False
+WH-03,2025-09-01,Apparel,3011,1073,False
+WH-03,2025-09-01,Home Goods,1806,1198,False
+WH-03,2025-09-01,Industrial Parts,2936,1163,False
+WH-03,2025-09-01,Perishables,1913,871,False
+WH-04,2025-09-01,Electronics,3363,854,False
+WH-04,2025-09-01,Apparel,611,155,False
+WH-04,2025-09-01,Home Goods,2588,1128,False
+WH-04,2025-09-01,Industrial Parts,1744,908,False
+WH-04,2025-09-01,Perishables,507,191,False
+WH-05,2025-09-01,Electronics,3328,1177,False
+WH-05,2025-09-01,Apparel,1548,821,False
+WH-05,2025-09-01,Home Goods,2213,1216,False
+WH-05,2025-09-01,Industrial Parts,349,272,False
+WH-05,2025-09-01,Perishables,2863,978,False
+WH-06,2025-09-01,Electronics,3156,965,False
+WH-06,2025-09-01,Apparel,863,863,False
+WH-06,2025-09-01,Home Goods,218,164,False
+WH-06,2025-09-01,Industrial Parts,1238,886,False
+WH-06,2025-09-01,Perishables,587,179,False
+WH-07,2025-09-01,Electronics,2236,1162,False
+WH-07,2025-09-01,Apparel,1146,611,False
+WH-07,2025-09-01,Home Goods,59,607,True
+WH-07,2025-09-01,Industrial Parts,1226,800,False
+WH-07,2025-09-01,Perishables,704,232,False
+WH-08,2025-09-01,Electronics,3766,1069,False
+WH-08,2025-09-01,Apparel,485,246,False
+WH-08,2025-09-01,Home Goods,386,128,False
+WH-08,2025-09-01,Industrial Parts,3278,1125,False
+WH-08,2025-09-01,Perishables,538,298,False
+WH-09,2025-09-01,Electronics,2498,787,False
+WH-09,2025-09-01,Apparel,1837,1149,False
+WH-09,2025-09-01,Home Goods,1888,530,False
+WH-09,2025-09-01,Industrial Parts,3939,1022,False
+WH-09,2025-09-01,Perishables,918,310,False
+WH-10,2025-09-01,Electronics,460,155,False
+WH-10,2025-09-01,Apparel,663,495,False
+WH-10,2025-09-01,Home Goods,3420,896,False
+WH-10,2025-09-01,Industrial Parts,2160,613,False
+WH-10,2025-09-01,Perishables,1990,582,False
+WH-11,2025-09-01,Electronics,4660,1228,False
+WH-11,2025-09-01,Apparel,3231,1117,False
+WH-11,2025-09-01,Home Goods,1604,964,False
+WH-11,2025-09-01,Industrial Parts,1158,985,False
+WH-11,2025-09-01,Perishables,671,211,False
+WH-12,2025-09-01,Electronics,1278,346,False
+WH-12,2025-09-01,Apparel,220,125,False
+WH-12,2025-09-01,Home Goods,2422,1028,False
+WH-12,2025-09-01,Industrial Parts,1102,802,False
+WH-12,2025-09-01,Perishables,988,262,False
+WH-01,2025-10-01,Electronics,1034,596,False
+WH-01,2025-10-01,Apparel,103,1145,True
+WH-01,2025-10-01,Home Goods,969,243,False
+WH-01,2025-10-01,Industrial Parts,1028,308,False
+WH-01,2025-10-01,Perishables,4643,1201,False
+WH-02,2025-10-01,Electronics,1621,1166,False
+WH-02,2025-10-01,Apparel,3490,1097,False
+WH-02,2025-10-01,Home Goods,3363,878,False
+WH-02,2025-10-01,Industrial Parts,1517,801,False
+WH-02,2025-10-01,Perishables,858,519,False
+WH-03,2025-10-01,Electronics,4080,1231,False
+WH-03,2025-10-01,Apparel,3058,782,False
+WH-03,2025-10-01,Home Goods,1329,424,False
+WH-03,2025-10-01,Industrial Parts,158,1041,True
+WH-03,2025-10-01,Perishables,457,310,False
+WH-04,2025-10-01,Electronics,683,286,False
+WH-04,2025-10-01,Apparel,820,297,False
+WH-04,2025-10-01,Home Goods,4083,1074,False
+WH-04,2025-10-01,Industrial Parts,2582,874,False
+WH-04,2025-10-01,Perishables,1515,449,False
+WH-05,2025-10-01,Electronics,562,146,False
+WH-05,2025-10-01,Apparel,1497,552,False
+WH-05,2025-10-01,Home Goods,1883,484,False
+WH-05,2025-10-01,Industrial Parts,2337,777,False
+WH-05,2025-10-01,Perishables,3476,949,False
+WH-06,2025-10-01,Electronics,4843,1214,False
+WH-06,2025-10-01,Apparel,843,216,False
+WH-06,2025-10-01,Home Goods,586,180,False
+WH-06,2025-10-01,Industrial Parts,1274,843,False
+WH-06,2025-10-01,Perishables,86,724,True
+WH-07,2025-10-01,Electronics,1185,875,False
+WH-07,2025-10-01,Apparel,2226,1209,False
+WH-07,2025-10-01,Home Goods,955,461,False
+WH-07,2025-10-01,Industrial Parts,401,353,False
+WH-07,2025-10-01,Perishables,268,1068,True
+WH-08,2025-10-01,Electronics,1812,496,False
+WH-08,2025-10-01,Apparel,300,1183,True
+WH-08,2025-10-01,Home Goods,1443,377,False
+WH-08,2025-10-01,Industrial Parts,2253,716,False
+WH-08,2025-10-01,Perishables,771,251,False
+WH-09,2025-10-01,Electronics,515,417,False
+WH-09,2025-10-01,Apparel,1153,1113,False
+WH-09,2025-10-01,Home Goods,3675,999,False
+WH-09,2025-10-01,Industrial Parts,2921,849,False
+WH-09,2025-10-01,Perishables,1874,507,False
+WH-10,2025-10-01,Electronics,584,211,False
+WH-10,2025-10-01,Apparel,4404,1247,False
+WH-10,2025-10-01,Home Goods,1889,734,False
+WH-10,2025-10-01,Industrial Parts,1452,744,False
+WH-10,2025-10-01,Perishables,3551,974,False
+WH-11,2025-10-01,Electronics,2784,789,False
+WH-11,2025-10-01,Apparel,1361,393,False
+WH-11,2025-10-01,Home Goods,3669,1142,False
+WH-11,2025-10-01,Industrial Parts,486,172,False
+WH-11,2025-10-01,Perishables,2749,780,False
+WH-12,2025-10-01,Electronics,69,438,True
+WH-12,2025-10-01,Apparel,2111,866,False
+WH-12,2025-10-01,Home Goods,1281,503,False
+WH-12,2025-10-01,Industrial Parts,1167,514,False
+WH-12,2025-10-01,Perishables,635,286,False
+WH-01,2025-11-01,Electronics,4538,1232,False
+WH-01,2025-11-01,Apparel,626,277,False
+WH-01,2025-11-01,Home Goods,2661,779,False
+WH-01,2025-11-01,Industrial Parts,3600,962,False
+WH-01,2025-11-01,Perishables,1020,327,False
+WH-02,2025-11-01,Electronics,1535,1123,False
+WH-02,2025-11-01,Apparel,645,387,False
+WH-02,2025-11-01,Home Goods,3305,1077,False
+WH-02,2025-11-01,Industrial Parts,4378,1228,False
+WH-02,2025-11-01,Perishables,2047,640,False
+WH-03,2025-11-01,Electronics,200,922,True
+WH-03,2025-11-01,Apparel,500,186,False
+WH-03,2025-11-01,Home Goods,3115,954,False
+WH-03,2025-11-01,Industrial Parts,3439,1206,False
+WH-03,2025-11-01,Perishables,1367,445,False
+WH-04,2025-11-01,Electronics,1649,460,False
+WH-04,2025-11-01,Apparel,385,126,False
+WH-04,2025-11-01,Home Goods,1168,388,False
+WH-04,2025-11-01,Industrial Parts,889,736,False
+WH-04,2025-11-01,Perishables,436,376,False
+WH-05,2025-11-01,Electronics,3259,851,False
+WH-05,2025-11-01,Apparel,1598,422,False
+WH-05,2025-11-01,Home Goods,751,551,False
+WH-05,2025-11-01,Industrial Parts,1106,712,False
+WH-05,2025-11-01,Perishables,793,356,False
+WH-06,2025-11-01,Electronics,4061,1173,False
+WH-06,2025-11-01,Apparel,878,653,False
+WH-06,2025-11-01,Home Goods,1979,595,False
+WH-06,2025-11-01,Industrial Parts,1765,1104,False
+WH-06,2025-11-01,Perishables,1603,427,False
+WH-07,2025-11-01,Electronics,2205,1108,False
+WH-07,2025-11-01,Apparel,1028,627,False
+WH-07,2025-11-01,Home Goods,1465,1063,False
+WH-07,2025-11-01,Industrial Parts,1100,869,False
+WH-07,2025-11-01,Perishables,1767,517,False
+WH-08,2025-11-01,Electronics,2378,870,False
+WH-08,2025-11-01,Apparel,4645,1199,False
+WH-08,2025-11-01,Home Goods,1135,639,False
+WH-08,2025-11-01,Industrial Parts,663,280,False
+WH-08,2025-11-01,Perishables,2401,733,False
+WH-09,2025-11-01,Electronics,1728,783,False
+WH-09,2025-11-01,Apparel,1278,331,False
+WH-09,2025-11-01,Home Goods,1222,441,False
+WH-09,2025-11-01,Industrial Parts,1742,897,False
+WH-09,2025-11-01,Perishables,1806,816,False
+WH-10,2025-11-01,Electronics,1850,1171,False
+WH-10,2025-11-01,Apparel,972,271,False
+WH-10,2025-11-01,Home Goods,1672,642,False
+WH-10,2025-11-01,Industrial Parts,891,283,False
+WH-10,2025-11-01,Perishables,1191,303,False
+WH-11,2025-11-01,Electronics,1824,1221,False
+WH-11,2025-11-01,Apparel,1020,449,False
+WH-11,2025-11-01,Home Goods,664,635,False
+WH-11,2025-11-01,Industrial Parts,2065,798,False
+WH-11,2025-11-01,Perishables,2869,821,False
+WH-12,2025-11-01,Electronics,1640,625,False
+WH-12,2025-11-01,Apparel,3116,962,False
+WH-12,2025-11-01,Home Goods,897,785,False
+WH-12,2025-11-01,Industrial Parts,156,156,False
+WH-12,2025-11-01,Perishables,1522,1155,False
+WH-01,2025-12-01,Electronics,1541,990,False
+WH-01,2025-12-01,Apparel,1231,1168,False
+WH-01,2025-12-01,Home Goods,1165,736,False
+WH-01,2025-12-01,Industrial Parts,2347,1203,False
+WH-01,2025-12-01,Perishables,1159,825,False
+WH-02,2025-12-01,Electronics,2201,629,False
+WH-02,2025-12-01,Apparel,1056,265,False
+WH-02,2025-12-01,Home Goods,1887,1041,False
+WH-02,2025-12-01,Industrial Parts,1070,1034,False
+WH-02,2025-12-01,Perishables,2405,837,False
+WH-03,2025-12-01,Electronics,345,150,False
+WH-03,2025-12-01,Apparel,1267,898,False
+WH-03,2025-12-01,Home Goods,1411,721,False
+WH-03,2025-12-01,Industrial Parts,2088,821,False
+WH-03,2025-12-01,Perishables,780,586,False
+WH-04,2025-12-01,Electronics,24,639,True
+WH-04,2025-12-01,Apparel,3074,777,False
+WH-04,2025-12-01,Home Goods,1814,1060,False
+WH-04,2025-12-01,Industrial Parts,1810,753,False
+WH-04,2025-12-01,Perishables,816,307,False
+WH-05,2025-12-01,Electronics,358,127,False
+WH-05,2025-12-01,Apparel,2879,881,False
+WH-05,2025-12-01,Home Goods,2138,687,False
+WH-05,2025-12-01,Industrial Parts,922,374,False
+WH-05,2025-12-01,Perishables,1289,386,False
+WH-06,2025-12-01,Electronics,505,315,False
+WH-06,2025-12-01,Apparel,2673,982,False
+WH-06,2025-12-01,Home Goods,2374,1066,False
+WH-06,2025-12-01,Industrial Parts,3430,883,False
+WH-06,2025-12-01,Perishables,2006,685,False
+WH-07,2025-12-01,Electronics,511,163,False
+WH-07,2025-12-01,Apparel,1253,496,False
+WH-07,2025-12-01,Home Goods,1172,1065,False
+WH-07,2025-12-01,Industrial Parts,264,164,False
+WH-07,2025-12-01,Perishables,1227,390,False
+WH-08,2025-12-01,Electronics,1669,508,False
+WH-08,2025-12-01,Apparel,1889,560,False
+WH-08,2025-12-01,Home Goods,841,334,False
+WH-08,2025-12-01,Industrial Parts,528,290,False
+WH-08,2025-12-01,Perishables,909,314,False
+WH-09,2025-12-01,Electronics,2462,663,False
+WH-09,2025-12-01,Apparel,1474,800,False
+WH-09,2025-12-01,Home Goods,3184,849,False
+WH-09,2025-12-01,Industrial Parts,1726,540,False
+WH-09,2025-12-01,Perishables,719,708,False
+WH-10,2025-12-01,Electronics,2441,795,False
+WH-10,2025-12-01,Apparel,527,137,False
+WH-10,2025-12-01,Home Goods,2743,1083,False
+WH-10,2025-12-01,Industrial Parts,3344,882,False
+WH-10,2025-12-01,Perishables,1336,546,False
+WH-11,2025-12-01,Electronics,3282,1165,False
+WH-11,2025-12-01,Apparel,1608,577,False
+WH-11,2025-12-01,Home Goods,2894,1047,False
+WH-11,2025-12-01,Industrial Parts,1670,776,False
+WH-11,2025-12-01,Perishables,3432,861,False
+WH-12,2025-12-01,Electronics,2046,943,False
+WH-12,2025-12-01,Apparel,3293,951,False
+WH-12,2025-12-01,Home Goods,878,560,False
+WH-12,2025-12-01,Industrial Parts,80,786,True
+WH-12,2025-12-01,Perishables,1875,647,False
+WH-01,2026-01-01,Electronics,1213,745,False
+WH-01,2026-01-01,Apparel,2353,1149,False
+WH-01,2026-01-01,Home Goods,2967,983,False
+WH-01,2026-01-01,Industrial Parts,1775,495,False
+WH-01,2026-01-01,Perishables,62,955,True
+WH-02,2026-01-01,Electronics,363,295,False
+WH-02,2026-01-01,Apparel,2197,558,False
+WH-02,2026-01-01,Home Goods,1878,1138,False
+WH-02,2026-01-01,Industrial Parts,614,494,False
+WH-02,2026-01-01,Perishables,1669,544,False
+WH-03,2026-01-01,Electronics,482,280,False
+WH-03,2026-01-01,Apparel,2619,984,False
+WH-03,2026-01-01,Home Goods,1265,567,False
+WH-03,2026-01-01,Industrial Parts,593,428,False
+WH-03,2026-01-01,Perishables,2700,1197,False
+WH-04,2026-01-01,Electronics,413,180,False
+WH-04,2026-01-01,Apparel,2639,947,False
+WH-04,2026-01-01,Home Goods,671,421,False
+WH-04,2026-01-01,Industrial Parts,1339,528,False
+WH-04,2026-01-01,Perishables,450,436,False
+WH-05,2026-01-01,Electronics,2229,977,False
+WH-05,2026-01-01,Apparel,1275,1064,False
+WH-05,2026-01-01,Home Goods,0,193,True
+WH-05,2026-01-01,Industrial Parts,1569,634,False
+WH-05,2026-01-01,Perishables,2174,718,False
+WH-06,2026-01-01,Electronics,1372,362,False
+WH-06,2026-01-01,Apparel,1347,596,False
+WH-06,2026-01-01,Home Goods,2044,598,False
+WH-06,2026-01-01,Industrial Parts,1738,467,False
+WH-06,2026-01-01,Perishables,58,289,True
+WH-07,2026-01-01,Electronics,2855,755,False
+WH-07,2026-01-01,Apparel,1131,480,False
+WH-07,2026-01-01,Home Goods,1782,852,False
+WH-07,2026-01-01,Industrial Parts,1296,702,False
+WH-07,2026-01-01,Perishables,1588,621,False
+WH-08,2026-01-01,Electronics,1879,565,False
+WH-08,2026-01-01,Apparel,3615,922,False
+WH-08,2026-01-01,Home Goods,1081,782,False
+WH-08,2026-01-01,Industrial Parts,1003,542,False
+WH-08,2026-01-01,Perishables,1816,588,False
+WH-09,2026-01-01,Electronics,2015,814,False
+WH-09,2026-01-01,Apparel,3483,1038,False
+WH-09,2026-01-01,Home Goods,3197,987,False
+WH-09,2026-01-01,Industrial Parts,3886,1125,False
+WH-09,2026-01-01,Perishables,2675,1173,False
+WH-10,2026-01-01,Electronics,798,326,False
+WH-10,2026-01-01,Apparel,1963,884,False
+WH-10,2026-01-01,Home Goods,409,335,False
+WH-10,2026-01-01,Industrial Parts,2524,1078,False
+WH-10,2026-01-01,Perishables,1117,524,False
+WH-11,2026-01-01,Electronics,2490,1112,False
+WH-11,2026-01-01,Apparel,893,706,False
+WH-11,2026-01-01,Home Goods,934,233,False
+WH-11,2026-01-01,Industrial Parts,549,309,False
+WH-11,2026-01-01,Perishables,2204,985,False
+WH-12,2026-01-01,Electronics,545,280,False
+WH-12,2026-01-01,Apparel,494,247,False
+WH-12,2026-01-01,Home Goods,1663,1203,False
+WH-12,2026-01-01,Industrial Parts,594,165,False
+WH-12,2026-01-01,Perishables,1596,1241,False
+WH-01,2026-02-01,Electronics,1472,641,False
+WH-01,2026-02-01,Apparel,454,132,False
+WH-01,2026-02-01,Home Goods,1416,887,False
+WH-01,2026-02-01,Industrial Parts,916,276,False
+WH-01,2026-02-01,Perishables,1747,471,False
+WH-02,2026-02-01,Electronics,3066,913,False
+WH-02,2026-02-01,Apparel,2224,1068,False
+WH-02,2026-02-01,Home Goods,3330,877,False
+WH-02,2026-02-01,Industrial Parts,3474,1087,False
+WH-02,2026-02-01,Perishables,1946,514,False
+WH-03,2026-02-01,Electronics,27,262,True
+WH-03,2026-02-01,Apparel,4347,1148,False
+WH-03,2026-02-01,Home Goods,2878,1134,False
+WH-03,2026-02-01,Industrial Parts,3401,1079,False
+WH-03,2026-02-01,Perishables,43,555,True
+WH-04,2026-02-01,Electronics,4748,1223,False
+WH-04,2026-02-01,Apparel,1925,811,False
+WH-04,2026-02-01,Home Goods,2632,876,False
+WH-04,2026-02-01,Industrial Parts,1342,344,False
+WH-04,2026-02-01,Perishables,1824,490,False
+WH-05,2026-02-01,Electronics,204,181,False
+WH-05,2026-02-01,Apparel,2417,898,False
+WH-05,2026-02-01,Home Goods,2589,1103,False
+WH-05,2026-02-01,Industrial Parts,2070,1125,False
+WH-05,2026-02-01,Perishables,12,482,True
+WH-06,2026-02-01,Electronics,3295,948,False
+WH-06,2026-02-01,Apparel,4708,1206,False
+WH-06,2026-02-01,Home Goods,561,164,False
+WH-06,2026-02-01,Industrial Parts,2143,964,False
+WH-06,2026-02-01,Perishables,103,863,True
+WH-07,2026-02-01,Electronics,1048,518,False
+WH-07,2026-02-01,Apparel,2589,723,False
+WH-07,2026-02-01,Home Goods,860,264,False
+WH-07,2026-02-01,Industrial Parts,1894,816,False
+WH-07,2026-02-01,Perishables,615,361,False
+WH-08,2026-02-01,Electronics,2854,720,False
+WH-08,2026-02-01,Apparel,2303,787,False
+WH-08,2026-02-01,Home Goods,330,145,False
+WH-08,2026-02-01,Industrial Parts,1030,804,False
+WH-08,2026-02-01,Perishables,117,1206,True
+WH-09,2026-02-01,Electronics,866,419,False
+WH-09,2026-02-01,Apparel,1091,502,False
+WH-09,2026-02-01,Home Goods,3018,893,False
+WH-09,2026-02-01,Industrial Parts,1259,481,False
+WH-09,2026-02-01,Perishables,855,419,False
+WH-10,2026-02-01,Electronics,1972,506,False
+WH-10,2026-02-01,Apparel,1870,474,False
+WH-10,2026-02-01,Home Goods,1757,1145,False
+WH-10,2026-02-01,Industrial Parts,3901,1000,False
+WH-10,2026-02-01,Perishables,658,572,False
+WH-11,2026-02-01,Electronics,1070,695,False
+WH-11,2026-02-01,Apparel,1838,621,False
+WH-11,2026-02-01,Home Goods,2100,1109,False
+WH-11,2026-02-01,Industrial Parts,1800,678,False
+WH-11,2026-02-01,Perishables,1167,654,False
+WH-12,2026-02-01,Electronics,933,461,False
+WH-12,2026-02-01,Apparel,2328,806,False
+WH-12,2026-02-01,Home Goods,2493,1248,False
+WH-12,2026-02-01,Industrial Parts,3133,845,False
+WH-12,2026-02-01,Perishables,4258,1084,False
+WH-01,2026-03-01,Electronics,1035,776,False
+WH-01,2026-03-01,Apparel,2267,794,False
+WH-01,2026-03-01,Home Goods,4258,1154,False
+WH-01,2026-03-01,Industrial Parts,1751,897,False
+WH-01,2026-03-01,Perishables,1351,357,False
+WH-02,2026-03-01,Electronics,1389,511,False
+WH-02,2026-03-01,Apparel,2479,1011,False
+WH-02,2026-03-01,Home Goods,296,221,False
+WH-02,2026-03-01,Industrial Parts,1452,370,False
+WH-02,2026-03-01,Perishables,3582,919,False
+WH-03,2026-03-01,Electronics,3007,791,False
+WH-03,2026-03-01,Apparel,3684,1214,False
+WH-03,2026-03-01,Home Goods,1043,461,False
+WH-03,2026-03-01,Industrial Parts,816,283,False
+WH-03,2026-03-01,Perishables,1677,1113,False
+WH-04,2026-03-01,Electronics,23,586,True
+WH-04,2026-03-01,Apparel,319,146,False
+WH-04,2026-03-01,Home Goods,3047,781,False
+WH-04,2026-03-01,Industrial Parts,397,260,False
+WH-04,2026-03-01,Perishables,2645,781,False
+WH-05,2026-03-01,Electronics,670,211,False
+WH-05,2026-03-01,Apparel,757,489,False
+WH-05,2026-03-01,Home Goods,431,218,False
+WH-05,2026-03-01,Industrial Parts,886,513,False
+WH-05,2026-03-01,Perishables,145,499,True
+WH-06,2026-03-01,Electronics,3818,1136,False
+WH-06,2026-03-01,Apparel,940,245,False
+WH-06,2026-03-01,Home Goods,1218,591,False
+WH-06,2026-03-01,Industrial Parts,3340,1046,False
+WH-06,2026-03-01,Perishables,704,260,False
+WH-07,2026-03-01,Electronics,2560,677,False
+WH-07,2026-03-01,Apparel,771,625,False
+WH-07,2026-03-01,Home Goods,2247,1220,False
+WH-07,2026-03-01,Industrial Parts,896,715,False
+WH-07,2026-03-01,Perishables,188,143,False
+WH-08,2026-03-01,Electronics,2582,1130,False
+WH-08,2026-03-01,Apparel,1137,331,False
+WH-08,2026-03-01,Home Goods,4199,1125,False
+WH-08,2026-03-01,Industrial Parts,634,236,False
+WH-08,2026-03-01,Perishables,1738,614,False
+WH-09,2026-03-01,Electronics,535,476,False
+WH-09,2026-03-01,Apparel,3756,1184,False
+WH-09,2026-03-01,Home Goods,3929,1000,False
+WH-09,2026-03-01,Industrial Parts,730,227,False
+WH-09,2026-03-01,Perishables,783,425,False
+WH-10,2026-03-01,Electronics,945,689,False
+WH-10,2026-03-01,Apparel,995,406,False
+WH-10,2026-03-01,Home Goods,4495,1192,False
+WH-10,2026-03-01,Industrial Parts,430,382,False
+WH-10,2026-03-01,Perishables,158,149,False
+WH-11,2026-03-01,Electronics,1085,280,False
+WH-11,2026-03-01,Apparel,1528,411,False
+WH-11,2026-03-01,Home Goods,1346,901,False
+WH-11,2026-03-01,Industrial Parts,1351,1083,False
+WH-11,2026-03-01,Perishables,958,294,False
+WH-12,2026-03-01,Electronics,1962,1048,False
+WH-12,2026-03-01,Apparel,402,183,False
+WH-12,2026-03-01,Home Goods,1144,299,False
+WH-12,2026-03-01,Industrial Parts,3314,905,False
+WH-12,2026-03-01,Perishables,2222,658,False
+WH-01,2026-04-01,Electronics,3246,1152,False
+WH-01,2026-04-01,Apparel,3286,1055,False
+WH-01,2026-04-01,Home Goods,3108,988,False
+WH-01,2026-04-01,Industrial Parts,563,172,False
+WH-01,2026-04-01,Perishables,2226,1143,False
+WH-02,2026-04-01,Electronics,492,401,False
+WH-02,2026-04-01,Apparel,1382,513,False
+WH-02,2026-04-01,Home Goods,1714,576,False
+WH-02,2026-04-01,Industrial Parts,2017,813,False
+WH-02,2026-04-01,Perishables,1953,902,False
+WH-03,2026-04-01,Electronics,389,234,False
+WH-03,2026-04-01,Apparel,3377,1059,False
+WH-03,2026-04-01,Home Goods,2112,763,False
+WH-03,2026-04-01,Industrial Parts,648,210,False
+WH-03,2026-04-01,Perishables,678,490,False
+WH-04,2026-04-01,Electronics,834,253,False
+WH-04,2026-04-01,Apparel,1639,671,False
+WH-04,2026-04-01,Home Goods,3656,995,False
+WH-04,2026-04-01,Industrial Parts,2028,1214,False
+WH-04,2026-04-01,Perishables,1349,358,False
+WH-05,2026-04-01,Electronics,853,457,False
+WH-05,2026-04-01,Apparel,2947,977,False
+WH-05,2026-04-01,Home Goods,1678,807,False
+WH-05,2026-04-01,Industrial Parts,2785,1025,False
+WH-05,2026-04-01,Perishables,2465,845,False
+WH-06,2026-04-01,Electronics,3740,1022,False
+WH-06,2026-04-01,Apparel,1713,741,False
+WH-06,2026-04-01,Home Goods,516,149,False
+WH-06,2026-04-01,Industrial Parts,2175,1214,False
+WH-06,2026-04-01,Perishables,275,191,False
+WH-07,2026-04-01,Electronics,2654,1017,False
+WH-07,2026-04-01,Apparel,1884,1196,False
+WH-07,2026-04-01,Home Goods,1719,738,False
+WH-07,2026-04-01,Industrial Parts,1153,474,False
+WH-07,2026-04-01,Perishables,1064,523,False
+WH-08,2026-04-01,Electronics,2,228,True
+WH-08,2026-04-01,Apparel,2602,889,False
+WH-08,2026-04-01,Home Goods,366,291,False
+WH-08,2026-04-01,Industrial Parts,1420,571,False
+WH-08,2026-04-01,Perishables,2444,1109,False
+WH-09,2026-04-01,Electronics,1910,1060,False
+WH-09,2026-04-01,Apparel,1203,401,False
+WH-09,2026-04-01,Home Goods,2473,928,False
+WH-09,2026-04-01,Industrial Parts,617,168,False
+WH-09,2026-04-01,Perishables,2791,902,False
+WH-10,2026-04-01,Electronics,2280,770,False
+WH-10,2026-04-01,Apparel,3141,911,False
+WH-10,2026-04-01,Home Goods,662,228,False
+WH-10,2026-04-01,Industrial Parts,1969,1175,False
+WH-10,2026-04-01,Perishables,2073,1124,False
+WH-11,2026-04-01,Electronics,859,517,False
+WH-11,2026-04-01,Apparel,175,1035,True
+WH-11,2026-04-01,Home Goods,1000,310,False
+WH-11,2026-04-01,Industrial Parts,520,196,False
+WH-11,2026-04-01,Perishables,1602,413,False
+WH-12,2026-04-01,Electronics,3382,1019,False
+WH-12,2026-04-01,Apparel,1677,855,False
+WH-12,2026-04-01,Home Goods,1735,1171,False
+WH-12,2026-04-01,Industrial Parts,2172,716,False
+WH-12,2026-04-01,Perishables,2700,818,False
+WH-01,2026-05-01,Electronics,3040,767,False
+WH-01,2026-05-01,Apparel,3548,1133,False
+WH-01,2026-05-01,Home Goods,1362,625,False
+WH-01,2026-05-01,Industrial Parts,350,325,False
+WH-01,2026-05-01,Perishables,1900,1119,False
+WH-02,2026-05-01,Electronics,3475,953,False
+WH-02,2026-05-01,Apparel,3841,1013,False
+WH-02,2026-05-01,Home Goods,2517,759,False
+WH-02,2026-05-01,Industrial Parts,4056,1040,False
+WH-02,2026-05-01,Perishables,4439,1192,False
+WH-03,2026-05-01,Electronics,634,623,False
+WH-03,2026-05-01,Apparel,3158,929,False
+WH-03,2026-05-01,Home Goods,1915,723,False
+WH-03,2026-05-01,Industrial Parts,592,573,False
+WH-03,2026-05-01,Perishables,180,976,True
+WH-04,2026-05-01,Electronics,295,182,False
+WH-04,2026-05-01,Apparel,535,242,False
+WH-04,2026-05-01,Home Goods,4018,1092,False
+WH-04,2026-05-01,Industrial Parts,2825,780,False
+WH-04,2026-05-01,Perishables,2724,730,False
+WH-05,2026-05-01,Electronics,2889,1123,False
+WH-05,2026-05-01,Apparel,898,549,False
+WH-05,2026-05-01,Home Goods,3847,962,False
+WH-05,2026-05-01,Industrial Parts,955,286,False
+WH-05,2026-05-01,Perishables,456,212,False
+WH-06,2026-05-01,Electronics,2087,850,False
+WH-06,2026-05-01,Apparel,3153,1126,False
+WH-06,2026-05-01,Home Goods,3122,1244,False
+WH-06,2026-05-01,Industrial Parts,2130,1239,False
+WH-06,2026-05-01,Perishables,1521,1065,False
+WH-07,2026-05-01,Electronics,257,1198,True
+WH-07,2026-05-01,Apparel,4695,1206,False
+WH-07,2026-05-01,Home Goods,1204,975,False
+WH-07,2026-05-01,Industrial Parts,777,333,False
+WH-07,2026-05-01,Perishables,1564,392,False
+WH-08,2026-05-01,Electronics,2304,969,False
+WH-08,2026-05-01,Apparel,48,258,True
+WH-08,2026-05-01,Home Goods,2067,886,False
+WH-08,2026-05-01,Industrial Parts,1356,722,False
+WH-08,2026-05-01,Perishables,366,196,False
+WH-09,2026-05-01,Electronics,3968,1163,False
+WH-09,2026-05-01,Apparel,4609,1193,False
+WH-09,2026-05-01,Home Goods,2172,1108,False
+WH-09,2026-05-01,Industrial Parts,2154,1098,False
+WH-09,2026-05-01,Perishables,672,279,False
+WH-10,2026-05-01,Electronics,267,129,False
+WH-10,2026-05-01,Apparel,709,433,False
+WH-10,2026-05-01,Home Goods,561,452,False
+WH-10,2026-05-01,Industrial Parts,314,210,False
+WH-10,2026-05-01,Perishables,215,185,False
+WH-11,2026-05-01,Electronics,1595,413,False
+WH-11,2026-05-01,Apparel,957,712,False
+WH-11,2026-05-01,Home Goods,544,428,False
+WH-11,2026-05-01,Industrial Parts,747,470,False
+WH-11,2026-05-01,Perishables,1410,473,False
+WH-12,2026-05-01,Electronics,679,180,False
+WH-12,2026-05-01,Apparel,1062,423,False
+WH-12,2026-05-01,Home Goods,317,209,False
+WH-12,2026-05-01,Industrial Parts,521,199,False
+WH-12,2026-05-01,Perishables,1668,616,False
+WH-01,2026-06-01,Electronics,743,658,False
+WH-01,2026-06-01,Apparel,713,659,False
+WH-01,2026-06-01,Home Goods,3438,964,False
+WH-01,2026-06-01,Industrial Parts,2588,727,False
+WH-01,2026-06-01,Perishables,745,427,False
+WH-02,2026-06-01,Electronics,605,179,False
+WH-02,2026-06-01,Apparel,1487,815,False
+WH-02,2026-06-01,Home Goods,2150,544,False
+WH-02,2026-06-01,Industrial Parts,299,273,False
+WH-02,2026-06-01,Perishables,441,152,False
+WH-03,2026-06-01,Electronics,3809,1161,False
+WH-03,2026-06-01,Apparel,1284,324,False
+WH-03,2026-06-01,Home Goods,682,284,False
+WH-03,2026-06-01,Industrial Parts,314,239,False
+WH-03,2026-06-01,Perishables,30,468,True
+WH-04,2026-06-01,Electronics,466,380,False
+WH-04,2026-06-01,Apparel,996,981,False
+WH-04,2026-06-01,Home Goods,385,161,False
+WH-04,2026-06-01,Industrial Parts,1002,528,False
+WH-04,2026-06-01,Perishables,515,384,False
+WH-05,2026-06-01,Electronics,594,399,False
+WH-05,2026-06-01,Apparel,908,370,False
+WH-05,2026-06-01,Home Goods,916,523,False
+WH-05,2026-06-01,Industrial Parts,2808,757,False
+WH-05,2026-06-01,Perishables,2584,951,False
+WH-06,2026-06-01,Electronics,1272,582,False
+WH-06,2026-06-01,Apparel,947,636,False
+WH-06,2026-06-01,Home Goods,4187,1093,False
+WH-06,2026-06-01,Industrial Parts,997,572,False
+WH-06,2026-06-01,Perishables,2878,1107,False
+WH-07,2026-06-01,Electronics,2127,1112,False
+WH-07,2026-06-01,Apparel,1089,403,False
+WH-07,2026-06-01,Home Goods,1144,812,False
+WH-07,2026-06-01,Industrial Parts,4712,1200,False
+WH-07,2026-06-01,Perishables,61,1236,True
+WH-08,2026-06-01,Electronics,1444,983,False
+WH-08,2026-06-01,Apparel,1850,518,False
+WH-08,2026-06-01,Home Goods,1671,693,False
+WH-08,2026-06-01,Industrial Parts,850,360,False
+WH-08,2026-06-01,Perishables,15,1161,True
+WH-09,2026-06-01,Electronics,4079,1153,False
+WH-09,2026-06-01,Apparel,1624,1004,False
+WH-09,2026-06-01,Home Goods,1044,367,False
+WH-09,2026-06-01,Industrial Parts,3849,1196,False
+WH-09,2026-06-01,Perishables,1920,1202,False
+WH-10,2026-06-01,Electronics,2211,681,False
+WH-10,2026-06-01,Apparel,1578,1246,False
+WH-10,2026-06-01,Home Goods,1844,795,False
+WH-10,2026-06-01,Industrial Parts,1125,686,False
+WH-10,2026-06-01,Perishables,114,460,True
+WH-11,2026-06-01,Electronics,540,517,False
+WH-11,2026-06-01,Apparel,916,867,False
+WH-11,2026-06-01,Home Goods,1624,759,False
+WH-11,2026-06-01,Industrial Parts,947,542,False
+WH-11,2026-06-01,Perishables,353,125,False
+WH-12,2026-06-01,Electronics,2989,836,False
+WH-12,2026-06-01,Apparel,1269,380,False
+WH-12,2026-06-01,Home Goods,2071,880,False
+WH-12,2026-06-01,Industrial Parts,1039,424,False
+WH-12,2026-06-01,Perishables,832,567,False
+WH-01,2026-07-01,Electronics,2332,821,False
+WH-01,2026-07-01,Apparel,293,168,False
+WH-01,2026-07-01,Home Goods,386,198,False
+WH-01,2026-07-01,Industrial Parts,4205,1053,False
+WH-01,2026-07-01,Perishables,2473,1122,False
+WH-02,2026-07-01,Electronics,1715,717,False
+WH-02,2026-07-01,Apparel,21,131,True
+WH-02,2026-07-01,Home Goods,1941,522,False
+WH-02,2026-07-01,Industrial Parts,2253,827,False
+WH-02,2026-07-01,Perishables,353,200,False
+WH-03,2026-07-01,Electronics,3857,1204,False
+WH-03,2026-07-01,Apparel,943,827,False
+WH-03,2026-07-01,Home Goods,4104,1139,False
+WH-03,2026-07-01,Industrial Parts,1430,439,False
+WH-03,2026-07-01,Perishables,2398,1047,False
+WH-04,2026-07-01,Electronics,1355,1118,False
+WH-04,2026-07-01,Apparel,3384,873,False
+WH-04,2026-07-01,Home Goods,872,394,False
+WH-04,2026-07-01,Industrial Parts,810,673,False
+WH-04,2026-07-01,Perishables,2399,774,False
+WH-05,2026-07-01,Electronics,915,236,False
+WH-05,2026-07-01,Apparel,963,280,False
+WH-05,2026-07-01,Home Goods,2988,752,False
+WH-05,2026-07-01,Industrial Parts,3456,1128,False
+WH-05,2026-07-01,Perishables,1127,487,False
+WH-06,2026-07-01,Electronics,2699,933,False
+WH-06,2026-07-01,Apparel,2935,1059,False
+WH-06,2026-07-01,Home Goods,2296,897,False
+WH-06,2026-07-01,Industrial Parts,576,212,False
+WH-06,2026-07-01,Perishables,1607,1106,False
+WH-07,2026-07-01,Electronics,1693,666,False
+WH-07,2026-07-01,Apparel,1083,401,False
+WH-07,2026-07-01,Home Goods,1030,317,False
+WH-07,2026-07-01,Industrial Parts,904,354,False
+WH-07,2026-07-01,Perishables,2168,825,False
+WH-08,2026-07-01,Electronics,1214,886,False
+WH-08,2026-07-01,Apparel,460,360,False
+WH-08,2026-07-01,Home Goods,1727,1066,False
+WH-08,2026-07-01,Industrial Parts,2299,721,False
+WH-08,2026-07-01,Perishables,367,217,False
+WH-09,2026-07-01,Electronics,2378,616,False
+WH-09,2026-07-01,Apparel,689,218,False
+WH-09,2026-07-01,Home Goods,933,714,False
+WH-09,2026-07-01,Industrial Parts,306,272,False
+WH-09,2026-07-01,Perishables,1700,906,False
+WH-10,2026-07-01,Electronics,4188,1066,False
+WH-10,2026-07-01,Apparel,724,402,False
+WH-10,2026-07-01,Home Goods,3974,998,False
+WH-10,2026-07-01,Industrial Parts,1686,1022,False
+WH-10,2026-07-01,Perishables,1423,484,False
+WH-11,2026-07-01,Electronics,1981,702,False
+WH-11,2026-07-01,Apparel,3077,781,False
+WH-11,2026-07-01,Home Goods,3377,999,False
+WH-11,2026-07-01,Industrial Parts,1477,428,False
+WH-11,2026-07-01,Perishables,176,714,True
+WH-12,2026-07-01,Electronics,222,146,False
+WH-12,2026-07-01,Apparel,1460,428,False
+WH-12,2026-07-01,Home Goods,363,276,False
+WH-12,2026-07-01,Industrial Parts,584,490,False
+WH-12,2026-07-01,Perishables,444,134,False
+WH-01,2026-08-01,Electronics,1281,615,False
+WH-01,2026-08-01,Apparel,784,235,False
+WH-01,2026-08-01,Home Goods,637,529,False
+WH-01,2026-08-01,Industrial Parts,1788,479,False
+WH-01,2026-08-01,Perishables,734,710,False
+WH-02,2026-08-01,Electronics,1998,584,False
+WH-02,2026-08-01,Apparel,113,656,True
+WH-02,2026-08-01,Home Goods,2940,1099,False
+WH-02,2026-08-01,Industrial Parts,3633,1106,False
+WH-02,2026-08-01,Perishables,1591,438,False
+WH-03,2026-08-01,Electronics,3078,1167,False
+WH-03,2026-08-01,Apparel,40,447,True
+WH-03,2026-08-01,Home Goods,3532,1205,False
+WH-03,2026-08-01,Industrial Parts,3265,1070,False
+WH-03,2026-08-01,Perishables,851,256,False
+WH-04,2026-08-01,Electronics,1882,1025,False
+WH-04,2026-08-01,Apparel,3558,941,False
+WH-04,2026-08-01,Home Goods,727,691,False
+WH-04,2026-08-01,Industrial Parts,2963,903,False
+WH-04,2026-08-01,Perishables,1482,682,False
+WH-05,2026-08-01,Electronics,3562,1188,False
+WH-05,2026-08-01,Apparel,2819,949,False
+WH-05,2026-08-01,Home Goods,3077,1196,False
+WH-05,2026-08-01,Industrial Parts,3222,1053,False
+WH-05,2026-08-01,Perishables,273,1031,True
+WH-06,2026-08-01,Electronics,1010,259,False
+WH-06,2026-08-01,Apparel,709,440,False
+WH-06,2026-08-01,Home Goods,4424,1185,False
+WH-06,2026-08-01,Industrial Parts,824,300,False
+WH-06,2026-08-01,Perishables,1157,737,False
+WH-07,2026-08-01,Electronics,2287,693,False
+WH-07,2026-08-01,Apparel,453,134,False
+WH-07,2026-08-01,Home Goods,786,216,False
+WH-07,2026-08-01,Industrial Parts,3182,899,False
+WH-07,2026-08-01,Perishables,1805,466,False
+WH-08,2026-08-01,Electronics,1274,841,False
+WH-08,2026-08-01,Apparel,1258,904,False
+WH-08,2026-08-01,Home Goods,3021,1023,False
+WH-08,2026-08-01,Industrial Parts,1619,526,False
+WH-08,2026-08-01,Perishables,1939,711,False
+WH-09,2026-08-01,Electronics,1965,544,False
+WH-09,2026-08-01,Apparel,3622,1245,False
+WH-09,2026-08-01,Home Goods,838,679,False
+WH-09,2026-08-01,Industrial Parts,3630,996,False
+WH-09,2026-08-01,Perishables,486,460,False
+WH-10,2026-08-01,Electronics,1189,902,False
+WH-10,2026-08-01,Apparel,514,211,False
+WH-10,2026-08-01,Home Goods,676,491,False
+WH-10,2026-08-01,Industrial Parts,370,195,False
+WH-10,2026-08-01,Perishables,1957,556,False
+WH-11,2026-08-01,Electronics,4163,1043,False
+WH-11,2026-08-01,Apparel,69,341,True
+WH-11,2026-08-01,Home Goods,1402,359,False
+WH-11,2026-08-01,Industrial Parts,2884,739,False
+WH-11,2026-08-01,Perishables,302,160,False
+WH-12,2026-08-01,Electronics,1151,724,False
+WH-12,2026-08-01,Apparel,2578,755,False
+WH-12,2026-08-01,Home Goods,1478,895,False
+WH-12,2026-08-01,Industrial Parts,1438,633,False
+WH-12,2026-08-01,Perishables,514,175,False
