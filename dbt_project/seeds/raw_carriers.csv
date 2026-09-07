@@ -1,0 +1,8 @@
+carrier_id,carrier_name,mode,cost_per_km,speed_kmph,base_on_time_rate
+CAR-01,Meridian Freight Lines,Truck,0.85,70,0.9
+CAR-02,Continental Trucking Co.,Truck,0.78,65,0.87
+CAR-03,Ironrail Cargo,Rail,0.35,55,0.83
+CAR-04,SkyBridge Air Cargo,Air,3.2,780,0.94
+CAR-05,Polaris Airfreight,Air,3.55,800,0.92
+CAR-06,Blue Horizon Ocean Lines,Ocean,0.09,32,0.78
+CAR-07,Pacific Rim Shipping,Ocean,0.1,30,0.75

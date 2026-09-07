@@ -1,0 +1,13 @@
+warehouse_id,warehouse_name,city,country,region,lat,lon,capacity_units
+WH-01,Atlanta DC,Atlanta,United States,North America,33.749,-84.388,42000
+WH-02,Dallas DC,Dallas,United States,North America,32.7767,-96.797,38000
+WH-03,Toronto DC,Toronto,Canada,North America,43.6532,-79.3832,26000
+WH-04,Rotterdam DC,Rotterdam,Netherlands,Europe,51.9244,4.4777,47000
+WH-05,Hamburg DC,Hamburg,Germany,Europe,53.5511,9.9937,39000
+WH-06,Lyon DC,Lyon,France,Europe,45.764,4.8357,24000
+WH-07,Warsaw DC,Warsaw,Poland,Europe,52.2297,21.0122,21000
+WH-08,Singapore DC,Singapore,Singapore,Asia Pacific,1.3521,103.8198,45000
+WH-09,Shanghai DC,Shanghai,China,Asia Pacific,31.2304,121.4737,51000
+WH-10,Sydney DC,Sydney,Australia,Asia Pacific,-33.8688,151.2093,22000
+WH-11,Dubai DC,Dubai,United Arab Emirates,Middle East,25.2048,55.2708,30000
+WH-12,Jeddah DC,Jeddah,Saudi Arabia,Middle East,21.4858,39.1925,18000

@@ -1,0 +1,76 @@
+version: 2
+
+models:
+  - name: stg_warehouses
+    columns:
+      - name: warehouse_id
+        tests: [not_null, unique]
+      - name: region
+        tests:
+          - accepted_values:
+              values: ['North America', 'Europe', 'Asia Pacific', 'Middle East']
+
+  - name: stg_destinations
+    columns:
+      - name: destination_id
+        tests: [not_null, unique]
+
+  - name: stg_carriers
+    columns:
+      - name: carrier_id
+        tests: [not_null, unique]
+      - name: mode
+        tests:
+          - accepted_values:
+              values: ['Truck', 'Rail', 'Air', 'Ocean']
+
+  - name: stg_shipments
+    columns:
+      - name: shipment_id
+        tests: [not_null, unique]
+      - name: warehouse_id
+        tests:
+          - not_null
+          - relationships:
+              to: ref('stg_warehouses')
+              field: warehouse_id
+      - name: destination_id
+        tests:
+          - not_null
+          - relationships:
+              to: ref('stg_destinations')
+              field: destination_id
+      - name: carrier_id
+        tests:
+          - not_null
+          - relationships:
+              to: ref('stg_carriers')
+              field: carrier_id
+      - name: status
+        tests:
+          - accepted_values:
+              values: ['Delivered', 'In Transit', 'Cancelled']
+
+  - name: stg_returns
+    columns:
+      - name: return_id
+        tests: [not_null, unique]
+      - name: shipment_id
+        tests:
+          - not_null
+          - relationships:
+              to: ref('stg_shipments')
+              field: shipment_id
+
+  - name: stg_inventory_snapshots
+    columns:
+      - name: warehouse_id
+        tests:
+          - not_null
+          - relationships:
+              to: ref('stg_warehouses')
+              field: warehouse_id
+      - name: category
+        tests:
+          - accepted_values:
+              values: ['Electronics', 'Apparel', 'Home Goods', 'Industrial Parts', 'Perishables']

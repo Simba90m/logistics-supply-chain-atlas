@@ -1,0 +1,43 @@
+version: 2
+
+models:
+  - name: mart_shipment_volume_monthly
+    columns:
+      - name: warehouse_id
+        tests:
+          - not_null
+          - relationships:
+              to: ref('stg_warehouses')
+              field: warehouse_id
+
+  - name: mart_carrier_performance
+    columns:
+      - name: carrier_id
+        tests:
+          - not_null
+          - relationships:
+              to: ref('stg_carriers')
+              field: carrier_id
+
+  - name: mart_warehouse_geo
+    columns:
+      - name: warehouse_id
+        tests: [not_null, unique]
+
+  - name: mart_ontime_by_warehouse_year
+    columns:
+      - name: warehouse_id
+        tests:
+          - not_null
+          - relationships:
+              to: ref('stg_warehouses')
+              field: warehouse_id
+
+  - name: mart_inventory_health
+    columns:
+      - name: warehouse_id
+        tests:
+          - not_null
+          - relationships:
+              to: ref('stg_warehouses')
+              field: warehouse_id

@@ -1,0 +1,20 @@
+version: 2
+
+sources:
+  - name: raw
+    schema: raw
+    tables:
+      - name: raw_warehouses
+        loaded_at_field: "current_timestamp"
+        freshness:
+          warn_after: {count: 60, period: day}
+          error_after: {count: 120, period: day}
+      - name: raw_destinations
+      - name: raw_carriers
+      - name: raw_shipments
+        loaded_at_field: "current_timestamp"
+        freshness:
+          warn_after: {count: 60, period: day}
+          error_after: {count: 120, period: day}
+      - name: raw_returns
+      - name: raw_inventory_snapshots
