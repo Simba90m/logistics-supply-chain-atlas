@@ -111,12 +111,12 @@ the marts, a warehouse map colored by on-time rate, shipment volume
 trend by region, a carrier cost-vs-reliability scatter, an on-time
 heatmap by warehouse and year, and inventory stockout rates by
 category. Useful for reviewing the data without opening Tableau. Live
-at **[link added once deployed]**.
+at ** Streamlit App: [Interactive Explorer](https://dashboardapppy-xrvbqn8vmudetwlephtaap.streamlit.app/) **
 
 **Tableau Public**: the polished, presentation-ready version of the
 same marts, built for a non-technical audience, a real geographic map
 of the warehouse network, carrier performance, and inventory health.
-Link goes here once published.
+Link goes here once published. **Tableau Dashboard:** [Atlas Global Logistics: Supply Chain Performance](https://public.tableau.com/views/AtlasGlobalLogistics/Dashboard1)
 
 ## Running it locally
 
