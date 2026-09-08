@@ -11,8 +11,6 @@ the full pipeline from raw data generation through transformation to
 a published dashboard with a real warehouse map, plus a lightweight
 app for exploring the data without opening Tableau.
 
-Live dashboard: **[link added once published to Tableau Public]**
-Live app: **[link added once deployed to Streamlit Community Cloud]**
 
 ## Why this project
 
