@@ -1,4 +1,9 @@
 # Supply Chain Analytics: Atlas Global Logistics
+## Live Demo
+
+- **Tableau Dashboard:** [Atlas Global Logistics: Supply Chain Performance](https://public.tableau.com/views/AtlasGlobalLogistics/Dashboard1)
+- **Streamlit App:** [Interactive Explorer](https://dashboardapppy-xrvbqn8vmudetwlephtaap.streamlit.app/)
+- **GitHub Repo:** [Simba90m/logistics-supply-chain-atlas](https://github.com/Simba90m/logistics-supply-chain-atlas)
 
 An end to end logistics and supply chain analytics project built for
 a fictional mid-size 3PL operator, Atlas Global Logistics. It covers
